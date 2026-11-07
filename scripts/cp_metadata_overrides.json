@@ -1,0 +1,66 @@
+{
+  "https://www.spoj.com/problems/PRIME1/": {
+    "name": "Prime Generator"
+  },
+  "https://www.spoj.com/problems/TDKPRIME/": {
+    "name": "Finding the Kth Prime"
+  },
+  "https://www.spoj.com/problems/TDPRIMES/": {
+    "name": "Printing some primes"
+  },
+  "https://codeforces.com/problemset/problem/1602/C": {
+    "name": "Array Elimination",
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "math",
+      "number theory"
+    ]
+  },
+  "https://www.spoj.com/problems/EPALIN/": {
+    "name": "Extend to Palindrome"
+  },
+  "https://www.spoj.com/problems/LPS/": {
+    "name": "Longest Palindromic Substring"
+  },
+  "https://www.spoj.com/problems/MSUBSTR/": {
+    "name": "Mirror Strings !!!"
+  },
+  "https://www.spoj.com/problems/NUMOFPAL/": {
+    "name": "Number of Palindromes"
+  },
+  "https://codeforces.com/gym/102694/problem/A": {
+    "name": "Circumference of a Tree"
+  },
+  "https://codeforces.com/gym/102694/problem/B": {
+    "name": "Dynamic Diameter"
+  },
+  "https://cses.fi/problemset/task/1130/": {
+    "name": "Tree Matching"
+  },
+  "https://cses.fi/problemset/task/1133/": {
+    "name": "Tree Distances II"
+  },
+  "https://cses.fi/problemset/task/1674/": {
+    "name": "Subordinates"
+  },
+  "https://codeforces.com/gym/102694/problem/E": {
+    "name": "Filthy Rich Trees"
+  },
+  "https://codeforces.com/gym/102694/problem/F": {
+    "name": "The Lorax"
+  },
+  "https://codeforces.com/gym/102694/problem/D": {
+    "name": "Cycle Free Flow"
+  },
+  "https://codeforces.com/problemset/problem/1573/C": {
+    "name": "Book",
+    "rating": 1800,
+    "tags": [
+      "data structures",
+      "dp",
+      "graphs",
+      "implementation"
+    ]
+  }
+}

@@ -1,0 +1,599 @@
+{
+  "source": "DSA Master Sheet.xlsx",
+  "sheet": "DSA Sheet Final",
+  "sourceGfgRows": 147,
+  "matchedQuestions": 96,
+  "totalGfgQuestions": 103,
+  "mappings": {
+    "striver-1995-371": {
+      "row": 110,
+      "name": "Factorial of a given number",
+      "url": "https://www.geeksforgeeks.org/problems/factorial5739/1",
+      "topic": ""
+    },
+    "striver-1995-342": {
+      "row": 12,
+      "name": "Reverse an Array",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1",
+      "topic": ""
+    },
+    "striver-1995-386": {
+      "row": 109,
+      "name": "Sum of first N numbers",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-series2811/1",
+      "topic": ""
+    },
+    "striver-1995-380": {
+      "row": 110,
+      "name": "Factorial of a given number",
+      "url": "https://www.geeksforgeeks.org/problems/factorial5739/1",
+      "topic": ""
+    },
+    "striver-1997-41": {
+      "row": 117,
+      "name": "Linear Search",
+      "url": "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1",
+      "topic": "Sorting"
+    },
+    "striver-1999-80": {
+      "row": 70,
+      "name": "Lower Bound",
+      "url": "https://www.geeksforgeeks.org/problems/implement-lower-bound/1",
+      "topic": ""
+    },
+    "striver-1999-82": {
+      "row": 71,
+      "name": "Upper Bound",
+      "url": "https://www.geeksforgeeks.org/problems/implement-upper-bound/1",
+      "topic": ""
+    },
+    "striver-1999-91": {
+      "row": 93,
+      "name": "Find Nth root of a number",
+      "url": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1",
+      "topic": ""
+    },
+    "striver-1999-73": {
+      "row": 103,
+      "name": "Aggressive Cows",
+      "url": "https://www.geeksforgeeks.org/problems/aggressive-cows/0",
+      "topic": ""
+    },
+    "striver-1999-74": {
+      "row": 99,
+      "name": "Book Allocation Problem",
+      "url": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
+      "topic": ""
+    },
+    "striver-1999-78": {
+      "row": 104,
+      "name": "Minimize Max Distance to Gas Station",
+      "url": "https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1",
+      "topic": ""
+    },
+    "striver-2000-872": {
+      "row": 453,
+      "name": "Rat in a Maze",
+      "url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+      "topic": ""
+    },
+    "striver-2000-869": {
+      "row": 455,
+      "name": "M-Coloring Problem",
+      "url": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+      "topic": ""
+    },
+    "striver-2001-900": {
+      "row": 168,
+      "name": "Reverse a Doubly Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
+      "topic": ""
+    },
+    "striver-2001-617": {
+      "row": 157,
+      "name": "Add One to a Number Represented by LL",
+      "url": "https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
+      "topic": ""
+    },
+    "striver-2001-623": {
+      "row": 147,
+      "name": "Length of Loop in Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1",
+      "topic": ""
+    },
+    "striver-2001-609": {
+      "row": 171,
+      "name": "Delete all occurrences of a key in DLL",
+      "url": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1",
+      "topic": ""
+    },
+    "striver-2001-610": {
+      "row": 169,
+      "name": "Remove Duplicates from Sorted DLL",
+      "url": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1",
+      "topic": ""
+    },
+    "striver-2002-171": {
+      "row": 344,
+      "name": "Check if a Number is Odd or Not",
+      "url": "https://www.geeksforgeeks.org/problems/odd-or-even3618/1",
+      "topic": ""
+    },
+    "striver-2003-551": {
+      "row": 362,
+      "name": "Shortest Job First",
+      "url": "https://www.geeksforgeeks.org/problems/shortest-job-first/1",
+      "topic": ""
+    },
+    "striver-2003-547": {
+      "row": 368,
+      "name": "Job Sequencing Problem",
+      "url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+      "topic": ""
+    },
+    "striver-2005-390": {
+      "row": 177,
+      "name": "Implement Stack using Arrays",
+      "url": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1",
+      "topic": "Stacks"
+    },
+    "striver-2005-387": {
+      "row": 205,
+      "name": "Implement Queue using Arrays",
+      "url": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1",
+      "topic": "Queues"
+    },
+    "striver-2005-586": {
+      "row": 187,
+      "name": "Infix to Postfix Conversion",
+      "url": "https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1",
+      "topic": ""
+    },
+    "striver-2005-587": {
+      "row": 190,
+      "name": "Infix to Prefix Conversion",
+      "url": "https://www.geeksforgeeks.org/problems/infix-to-prefix-notation/1",
+      "topic": ""
+    },
+    "striver-2005-848": {
+      "row": 188,
+      "name": "Prefix to Infix Conversion",
+      "url": "https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1",
+      "topic": ""
+    },
+    "striver-2005-825": {
+      "row": 189,
+      "name": "Postfix to Prefix Conversion",
+      "url": "https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1",
+      "topic": ""
+    },
+    "striver-2005-285": {
+      "row": 195,
+      "name": "Number of Greater Elements to the Right",
+      "url": "https://www.geeksforgeeks.org/problems/number-of-nges-to-the-right/1",
+      "topic": ""
+    },
+    "striver-2008-572": {
+      "row": 294,
+      "name": "Convert Min Heap to Max Heap",
+      "url": "https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1",
+      "topic": ""
+    },
+    "striver-2009-503": {
+      "row": 403,
+      "name": "Alien Dictionary",
+      "url": "https://www.geeksforgeeks.org/problems/alien-dictionary/1",
+      "topic": ""
+    },
+    "striver-2009-507": {
+      "row": 406,
+      "name": "Shortest Path in DAG",
+      "url": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1",
+      "topic": ""
+    },
+    "striver-2009-520": {
+      "row": 407,
+      "name": "Dijkstra's Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+      "topic": ""
+    },
+    "striver-2009-523": {
+      "row": 415,
+      "name": "Minimum Multiplications to Reach End",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1",
+      "topic": ""
+    },
+    "striver-2009-518": {
+      "row": 412,
+      "name": "Bellman-Ford Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1",
+      "topic": ""
+    },
+    "striver-2009-522": {
+      "row": 413,
+      "name": "Floyd Warshall Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+      "topic": ""
+    },
+    "striver-2009-516": {
+      "row": 420,
+      "name": "Disjoint Set",
+      "url": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1",
+      "topic": ""
+    },
+    "striver-2009-496": {
+      "row": 429,
+      "name": "Articulation Point in Graph",
+      "url": "https://www.geeksforgeeks.org/problems/articulation-point-1/1",
+      "topic": ""
+    },
+    "striver-2010-317": {
+      "row": 478,
+      "name": "Count Partitions with Given Difference",
+      "url": "https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1",
+      "topic": ""
+    },
+    "striver-2010-324": {
+      "row": 477,
+      "name": "Target Sum",
+      "url": "https://www.geeksforgeeks.org/problems/target-sum-1626326450/1",
+      "topic": ""
+    },
+    "striver-2010-322": {
+      "row": 482,
+      "name": "Rod Cutting Problem",
+      "url": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1",
+      "topic": ""
+    },
+    "striver-2010-851": {
+      "row": 504,
+      "name": "Print Longest Increasing Subsequence",
+      "url": "https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1",
+      "topic": ""
+    },
+    "striver-2010-633": {
+      "row": 507,
+      "name": "Longest Bitonic Subsequence",
+      "url": "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1",
+      "topic": ""
+    },
+    "striver-2010-309": {
+      "row": 488,
+      "name": "Longest Common Substring",
+      "url": "https://www.geeksforgeeks.org/problems/longest-common-substring1452/1",
+      "topic": ""
+    },
+    "striver-2010-327": {
+      "row": 510,
+      "name": "Matrix Chain Multiplication",
+      "url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+      "topic": ""
+    },
+    "striver-2011-1023": {
+      "row": 268,
+      "name": "Longest Word with All Prefixes",
+      "url": "https://www.geeksforgeeks.org/problems/find-the-longest-string--170645/1",
+      "topic": ""
+    },
+    "striver-2011-1026": {
+      "row": 269,
+      "name": "Number of Distinct Substrings in a String",
+      "url": "https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1",
+      "topic": ""
+    },
+    "striver-2013-651": {
+      "row": 50,
+      "name": "Count Primes in range L to R",
+      "url": "https://www.geeksforgeeks.org/problems/count-primes-in-range1604/1",
+      "topic": ""
+    },
+    "striver-1995-366": {
+      "row": 45,
+      "name": "Check if a number is Armstrong",
+      "url": "https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1",
+      "topic": "Basic Maths"
+    },
+    "striver-1995-365": {
+      "row": 47,
+      "name": "Check if a number is Prime",
+      "url": "https://www.geeksforgeeks.org/problems/prime-number2314/1",
+      "topic": ""
+    },
+    "striver-1995-372": {
+      "row": 48,
+      "name": "GCD / HCF of 2 numbers",
+      "url": "https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1",
+      "topic": ""
+    },
+    "striver-1995-370": {
+      "row": 46,
+      "name": "Print all Divisors of a Number",
+      "url": "https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1",
+      "topic": ""
+    },
+    "striver-1995-343": {
+      "row": 6,
+      "name": "Sum of Array",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-array2326/1",
+      "topic": ""
+    },
+    "striver-1995-340": {
+      "row": 8,
+      "name": "Check If Array is Sorted",
+      "url": "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1",
+      "topic": ""
+    },
+    "striver-1995-384": {
+      "row": 6,
+      "name": "Sum of Array",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-array2326/1",
+      "topic": ""
+    },
+    "striver-1995-377": {
+      "row": 47,
+      "name": "Check if a number is Prime",
+      "url": "https://www.geeksforgeeks.org/problems/prime-number2314/1",
+      "topic": ""
+    },
+    "striver-1995-382": {
+      "row": 112,
+      "name": "Reverse an array",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1",
+      "topic": ""
+    },
+    "striver-1995-385": {
+      "row": 7,
+      "name": "Sum of Digits",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-digits1742/1",
+      "topic": ""
+    },
+    "striver-1997-43": {
+      "row": 11,
+      "name": "Second Largest in Array",
+      "url": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
+      "topic": ""
+    },
+    "striver-1997-30": {
+      "row": 21,
+      "name": "Leaders in Array",
+      "url": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card",
+      "topic": ""
+    },
+    "striver-1997-20": {
+      "row": 124,
+      "name": "Count Inversions (Merge Sort)",
+      "url": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+      "topic": ""
+    },
+    "striver-1998-562": {
+      "row": 286,
+      "name": "Count subarrays with given XOR",
+      "url": "https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1",
+      "topic": ""
+    },
+    "striver-1998-564": {
+      "row": 289,
+      "name": "Maximum Size Subarray Sum Equals k",
+      "url": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1",
+      "topic": ""
+    },
+    "striver-1999-805": {
+      "row": 101,
+      "name": "Painter's Partition Problem",
+      "url": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
+      "topic": ""
+    },
+    "striver-1999-76": {
+      "row": 102,
+      "name": "K-th element of two sorted Arrays",
+      "url": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
+      "topic": ""
+    },
+    "striver-1999-67": {
+      "row": 90,
+      "name": "Median in a row-wise sorted Matrix",
+      "url": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
+      "topic": ""
+    },
+    "striver-1999-84": {
+      "row": 83,
+      "name": "Find kth Rotation",
+      "url": "https://www.geeksforgeeks.org/problems/rotation4723/1",
+      "topic": ""
+    },
+    "striver-2000-901": {
+      "row": 186,
+      "name": "Reverse a Stack (Using Recursion)",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-a-stack/1",
+      "topic": ""
+    },
+    "striver-2000-879": {
+      "row": 437,
+      "name": "Check if subsequence with sum K Exists",
+      "url": "https://www.geeksforgeeks.org/problems/check-if-there-exists-a-subsequence-with-sum-k/1",
+      "topic": "Backtracking"
+    },
+    "striver-2001-470": {
+      "row": 135,
+      "name": "Count Nodes / Find Length of Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1",
+      "topic": ""
+    },
+    "striver-2001-905": {
+      "row": 136,
+      "name": "Search in a Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1",
+      "topic": ""
+    },
+    "striver-2001-347": {
+      "row": 166,
+      "name": "Array to Doubly Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/create-a-doubly-linked-list-from-a-given-array/1",
+      "topic": ""
+    },
+    "striver-2001-629": {
+      "row": 161,
+      "name": "Sort a Linked List of 0s, 1s, and 2s",
+      "url": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+      "topic": ""
+    },
+    "striver-2001-612": {
+      "row": 174,
+      "name": "Flattening a Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+      "topic": ""
+    },
+    "striver-2001-452": {
+      "row": 172,
+      "name": "Find Pairs with Given Sum in a DLL",
+      "url": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1",
+      "topic": ""
+    },
+    "striver-2002-177": {
+      "row": 343,
+      "name": "K-th Bit is Set or Not",
+      "url": "https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1",
+      "topic": "Bit Manipulation"
+    },
+    "striver-2002-1005": {
+      "row": 348,
+      "name": "Swap Two Numbers (XOR Trick)",
+      "url": "https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1",
+      "topic": ""
+    },
+    "striver-2003-548": {
+      "row": 369,
+      "name": "Minimum Platforms required for a railway",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
+      "topic": ""
+    },
+    "striver-2003-549": {
+      "row": 363,
+      "name": "Activity Selection / N Meetings in One Room",
+      "url": "https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
+      "topic": ""
+    },
+    "striver-2005-391": {
+      "row": 178,
+      "name": "Implement Stack using Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1",
+      "topic": ""
+    },
+    "striver-2005-388": {
+      "row": 206,
+      "name": "Implement Queue using Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1",
+      "topic": ""
+    },
+    "striver-2005-768": {
+      "row": 192,
+      "name": "Next Smaller Element / Help Classmates",
+      "url": "https://www.geeksforgeeks.org/problems/help-classmates--141631/1",
+      "topic": ""
+    },
+    "striver-2005-957": {
+      "row": 204,
+      "name": "The Celebrity Problem (Elimination via Stack)",
+      "url": "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1",
+      "topic": ""
+    },
+    "striver-2006-185": {
+      "row": 245,
+      "name": "Children Sum Property in a Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
+      "topic": ""
+    },
+    "striver-2006-116": {
+      "row": 223,
+      "name": "Boundary Traversal of Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
+      "topic": ""
+    },
+    "striver-2006-115": {
+      "row": 222,
+      "name": "Top / Bottom View of Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+      "topic": ""
+    },
+    "striver-2006-120": {
+      "row": 241,
+      "name": "Minimum time taken to burn the BT",
+      "url": "https://www.geeksforgeeks.org/problems/burning-tree/1",
+      "topic": ""
+    },
+    "striver-2008-19361": {
+      "row": 299,
+      "name": "Sort a K Sorted Array / Nearly Sorted Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1",
+      "topic": ""
+    },
+    "striver-2008-755": {
+      "row": 301,
+      "name": "Minimum Cost of Ropes ",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1",
+      "topic": ""
+    },
+    "striver-2009-530": {
+      "row": 391,
+      "name": "01 Matrix / Distance of nearest cell having 1",
+      "url": "https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1",
+      "topic": ""
+    },
+    "striver-2009-501": {
+      "row": 397,
+      "name": "Cycle Detection in Undirected Graph",
+      "url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+      "topic": ""
+    },
+    "striver-2009-502": {
+      "row": 400,
+      "name": "Topological Sort",
+      "url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
+      "topic": ""
+    },
+    "striver-2009-500": {
+      "row": 398,
+      "name": "Detect Cycle in a Directed Graph",
+      "url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+      "topic": ""
+    },
+    "striver-2009-508": {
+      "row": 405,
+      "name": "Shortest Path in Undirected Graph (Unit Weights)",
+      "url": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1",
+      "topic": ""
+    },
+    "striver-2009-517": {
+      "row": 417,
+      "name": "Minimum Spanning Tree",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+      "topic": ""
+    },
+    "striver-2010-315": {
+      "row": 479,
+      "name": "0/1 Knapsack Problem",
+      "url": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
+      "topic": ""
+    },
+    "striver-2010-323": {
+      "row": 474,
+      "name": "Subset Sum Problem",
+      "url": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1",
+      "topic": ""
+    }
+  },
+  "excludedSourceMismatches": [
+    {
+      "row": 49,
+      "reason": "Link is largest prime factor, not full prime factorisation."
+    },
+    {
+      "row": 293,
+      "reason": "Link describes a max heap; current task asks about a min heap."
+    },
+    {
+      "row": 253,
+      "reason": "Source link covers ceil only; current task combines floor and ceil."
+    }
+  ]
+}

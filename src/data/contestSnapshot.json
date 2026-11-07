@@ -1,0 +1,1250 @@
+{
+  "fetchedAt": "2026-11-05T11:02:00.099370+00:00",
+  "codeforces": [
+    {
+      "id": 2282,
+      "name": "Kotlin Heroes: Episode 15",
+      "type": "ICPC",
+      "phase": "BEFORE",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1796740500,
+      "relativeTimeSeconds": -2864388
+    },
+    {
+      "id": 2286,
+      "name": "Kotlin Heroes: Practice 15",
+      "type": "ICPC",
+      "phase": "BEFORE",
+      "frozen": false,
+      "durationSeconds": 604800,
+      "startTimeSeconds": 1796135400,
+      "relativeTimeSeconds": -2259288
+    },
+    {
+      "id": 2287,
+      "name": "Codeforces Round (Div. 1)",
+      "type": "CF",
+      "phase": "BEFORE",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1795271700,
+      "relativeTimeSeconds": -1395588
+    },
+    {
+      "id": 2288,
+      "name": "Codeforces Round (Div. 2)",
+      "type": "CF",
+      "phase": "BEFORE",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1795271700,
+      "relativeTimeSeconds": -1395588
+    },
+    {
+      "id": 2285,
+      "name": "Codeforces Round (Div. 2)",
+      "type": "CF",
+      "phase": "BEFORE",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1794753300,
+      "relativeTimeSeconds": -877188
+    },
+    {
+      "id": 2279,
+      "name": "Codeforces Round 1133 (Div. 1)",
+      "type": "CF",
+      "phase": "BEFORE",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1794062100,
+      "relativeTimeSeconds": -185988
+    },
+    {
+      "id": 2280,
+      "name": "Codeforces Round 1133 (Div. 2)",
+      "type": "CF",
+      "phase": "BEFORE",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1794062100,
+      "relativeTimeSeconds": -185988
+    },
+    {
+      "id": 2284,
+      "name": "Codeforces Round 1132 (Div. 2)",
+      "type": "CF",
+      "phase": "BEFORE",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1793975700,
+      "relativeTimeSeconds": -99588
+    },
+    {
+      "id": 2283,
+      "name": "Educational Codeforces Round 196 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1793803500,
+      "relativeTimeSeconds": 72612
+    },
+    {
+      "id": 2278,
+      "name": "Codeforces Round 1131 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1793457300,
+      "relativeTimeSeconds": 418811
+    },
+    {
+      "id": 2272,
+      "name": "Codeforces Round 1130 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1793025300,
+      "relativeTimeSeconds": 850812
+    },
+    {
+      "id": 2277,
+      "name": "Codeforces Round 1129 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1792839900,
+      "relativeTimeSeconds": 1036211
+    },
+    {
+      "id": 2261,
+      "name": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1792247700,
+      "relativeTimeSeconds": 1628412
+    },
+    {
+      "id": 2276,
+      "name": "Educational Codeforces Round 195 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1791988500,
+      "relativeTimeSeconds": 1887611
+    },
+    {
+      "id": 2273,
+      "name": "Codeforces Round 1127 (Div. 1, Based on Mexican Olympiad in Informatics 2026)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1791743700,
+      "relativeTimeSeconds": 2132412
+    },
+    {
+      "id": 2274,
+      "name": "Codeforces Round 1127 (Div. 2, Based on Mexican Olympiad in Informatics 2026)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1791743700,
+      "relativeTimeSeconds": 2132411
+    },
+    {
+      "id": 2271,
+      "name": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1791644700,
+      "relativeTimeSeconds": 2231412
+    },
+    {
+      "id": 2275,
+      "name": "Codeforces Round 1125 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1791384300,
+      "relativeTimeSeconds": 2491811
+    },
+    {
+      "id": 2268,
+      "name": "Codeforces Round 1124 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1790433300,
+      "relativeTimeSeconds": 3442812
+    },
+    {
+      "id": 2269,
+      "name": "Codeforces Round 1124 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1790433300,
+      "relativeTimeSeconds": 3442812
+    },
+    {
+      "id": 2267,
+      "name": "Codeforces Round 1123 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1790346900,
+      "relativeTimeSeconds": 3529212
+    },
+    {
+      "id": 2266,
+      "name": "Codeforces Round 1122 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1790001300,
+      "relativeTimeSeconds": 3874812
+    },
+    {
+      "id": 2264,
+      "name": "Codeforces Round 1121 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1789319100,
+      "relativeTimeSeconds": 4557012
+    },
+    {
+      "id": 2262,
+      "name": "Codeforces Round 1120 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1789223700,
+      "relativeTimeSeconds": 4652412
+    },
+    {
+      "id": 2263,
+      "name": "Codeforces Round 1120 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1789223700,
+      "relativeTimeSeconds": 4652412
+    },
+    {
+      "id": 2260,
+      "name": "Educational Codeforces Round 194 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1788878100,
+      "relativeTimeSeconds": 4998012
+    },
+    {
+      "id": 2259,
+      "name": "Codeforces Round 1119 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1788619500,
+      "relativeTimeSeconds": 5256612
+    },
+    {
+      "id": 2258,
+      "name": "Codeforces Round 1118 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1788014100,
+      "relativeTimeSeconds": 5862012
+    },
+    {
+      "id": 2257,
+      "name": "Codeforces Round 1117 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1786977300,
+      "relativeTimeSeconds": 6898812
+    },
+    {
+      "id": 2251,
+      "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
+      "type": "IOI",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 1209600,
+      "startTimeSeconds": 1786705200,
+      "relativeTimeSeconds": 7170912
+    },
+    {
+      "id": 2255,
+      "name": "Codeforces Round 1116 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1786286100,
+      "relativeTimeSeconds": 7590012
+    },
+    {
+      "id": 2256,
+      "name": "Codeforces Round 1116 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1786286100,
+      "relativeTimeSeconds": 7590012
+    },
+    {
+      "id": 2253,
+      "name": "Educational Codeforces Round 193 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1786113300,
+      "relativeTimeSeconds": 7762812
+    },
+    {
+      "id": 2252,
+      "name": "Codeforces Round 1115 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1786026900,
+      "relativeTimeSeconds": 7849212
+    },
+    {
+      "id": 2254,
+      "name": "Codeforces Round 1114 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1785854100,
+      "relativeTimeSeconds": 8022012
+    },
+    {
+      "id": 2248,
+      "name": "Codeforces Round 1113 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1785594900,
+      "relativeTimeSeconds": 8281212
+    },
+    {
+      "id": 2249,
+      "name": "Codeforces Round 1112 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1785076500,
+      "relativeTimeSeconds": 8799612
+    },
+    {
+      "id": 2250,
+      "name": "Codeforces Round 1112 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1785076500,
+      "relativeTimeSeconds": 8799612
+    },
+    {
+      "id": 2247,
+      "name": "Codeforces Round 1111 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1784385300,
+      "relativeTimeSeconds": 9490812
+    },
+    {
+      "id": 2245,
+      "name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1784213100,
+      "relativeTimeSeconds": 9663012
+    },
+    {
+      "id": 2244,
+      "name": "Codeforces Round 1109 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1784039700,
+      "relativeTimeSeconds": 9836412
+    },
+    {
+      "id": 2246,
+      "name": "Codeforces Round 1108 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1783866900,
+      "relativeTimeSeconds": 10009212
+    },
+    {
+      "id": 2242,
+      "name": "Educational Codeforces Round 192 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1783348500,
+      "relativeTimeSeconds": 10527612
+    },
+    {
+      "id": 2241,
+      "name": "Codeforces Round 1107 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1782830100,
+      "relativeTimeSeconds": 11046011
+    },
+    {
+      "id": 2238,
+      "name": "Codeforces Round 1106 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1782657300,
+      "relativeTimeSeconds": 11218812
+    },
+    {
+      "id": 2239,
+      "name": "Codeforces Round 1105 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1782570900,
+      "relativeTimeSeconds": 11305212
+    },
+    {
+      "id": 2240,
+      "name": "Codeforces Round 1105 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1782570900,
+      "relativeTimeSeconds": 11305212
+    },
+    {
+      "id": 2237,
+      "name": "Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1781793300,
+      "relativeTimeSeconds": 12082812
+    },
+    {
+      "id": 2236,
+      "name": "Codeforces Round 1103 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1781274900,
+      "relativeTimeSeconds": 12601212
+    },
+    {
+      "id": 2233,
+      "name": "Educational Codeforces Round 191 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1781015700,
+      "relativeTimeSeconds": 12860412
+    },
+    {
+      "id": 2234,
+      "name": "Codeforces Round 1102 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1780842900,
+      "relativeTimeSeconds": 13033212
+    },
+    {
+      "id": 2232,
+      "name": "Codeforces Round 1101 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1780151700,
+      "relativeTimeSeconds": 13724412
+    },
+    {
+      "id": 2229,
+      "name": "Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1779546900,
+      "relativeTimeSeconds": 14329212
+    },
+    {
+      "id": 2231,
+      "name": "Codeforces Round 1099 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1779374100,
+      "relativeTimeSeconds": 14502012
+    },
+    {
+      "id": 2230,
+      "name": "Educational Codeforces Round 190 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1779114900,
+      "relativeTimeSeconds": 14761212
+    },
+    {
+      "id": 2228,
+      "name": "Codeforces Round 1098 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1778942100,
+      "relativeTimeSeconds": 14934012
+    },
+    {
+      "id": 2223,
+      "name": "Codeforces Round 1097 (Div. 1,  Based on Zhili Cup 2026)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1778047500,
+      "relativeTimeSeconds": 15828612
+    },
+    {
+      "id": 2224,
+      "name": "Codeforces Round 1097 (Div. 2,  Based on Zhili Cup 2026)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1778047500,
+      "relativeTimeSeconds": 15828612
+    },
+    {
+      "id": 2227,
+      "name": "Codeforces Round 1096 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1777559700,
+      "relativeTimeSeconds": 16316412
+    },
+    {
+      "id": 2226,
+      "name": "Codeforces Round 1095 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1777386900,
+      "relativeTimeSeconds": 16489212
+    },
+    {
+      "id": 2222,
+      "name": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1777127700,
+      "relativeTimeSeconds": 16748412
+    },
+    {
+      "id": 2225,
+      "name": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1776782100,
+      "relativeTimeSeconds": 17094012
+    },
+    {
+      "id": 2219,
+      "name": "Codeforces Round 1093 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1776090900,
+      "relativeTimeSeconds": 17785212
+    },
+    {
+      "id": 2220,
+      "name": "Codeforces Round 1093 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1776090900,
+      "relativeTimeSeconds": 17785212
+    },
+    {
+      "id": 2215,
+      "name": "Codeforces Round 1092 (Unrated, Div. 1, Based on THUPC 2026 \u2014 Finals)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1775972100,
+      "relativeTimeSeconds": 17904012
+    },
+    {
+      "id": 2216,
+      "name": "Codeforces Round 1092 (Unrated, Div. 2, Based on THUPC 2026 \u2014 Finals)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1775972100,
+      "relativeTimeSeconds": 17904012
+    },
+    {
+      "id": 2217,
+      "name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1775572500,
+      "relativeTimeSeconds": 18303611
+    },
+    {
+      "id": 2218,
+      "name": "Codeforces Round 1090 (Div. 4)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1775313300,
+      "relativeTimeSeconds": 18562812
+    },
+    {
+      "id": 2214,
+      "name": "April Fools Day Contest 2026",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1775054100,
+      "relativeTimeSeconds": 18822011
+    },
+    {
+      "id": 2210,
+      "name": "Codeforces Round 1089 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1774794900,
+      "relativeTimeSeconds": 19081212
+    },
+    {
+      "id": 2211,
+      "name": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1774709100,
+      "relativeTimeSeconds": 19167012
+    },
+    {
+      "id": 2209,
+      "name": "Codeforces Round 1087 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1774103700,
+      "relativeTimeSeconds": 19772411
+    },
+    {
+      "id": 2204,
+      "name": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1773671700,
+      "relativeTimeSeconds": 20204412
+    },
+    {
+      "id": 2208,
+      "name": "Codeforces Round 1086 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1773498900,
+      "relativeTimeSeconds": 20377212
+    },
+    {
+      "id": 2207,
+      "name": "Codeforces Round 1085 (Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1772980500,
+      "relativeTimeSeconds": 20895612
+    },
+    {
+      "id": 2206,
+      "name": "2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 18000,
+      "startTimeSeconds": 1772934300,
+      "relativeTimeSeconds": 20941812
+    },
+    {
+      "id": 2199,
+      "name": "Kotlin Heroes: Episode 14",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1772462100,
+      "relativeTimeSeconds": 21414012
+    },
+    {
+      "id": 2200,
+      "name": "Codeforces Round 1084 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1772202900,
+      "relativeTimeSeconds": 21673212
+    },
+    {
+      "id": 2205,
+      "name": "Codeforces Round 1083 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1772116500,
+      "relativeTimeSeconds": 21759612
+    },
+    {
+      "id": 2203,
+      "name": "Educational Codeforces Round 187 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1772030100,
+      "relativeTimeSeconds": 21846012
+    },
+    {
+      "id": 2201,
+      "name": "Codeforces Round 1082 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1771857300,
+      "relativeTimeSeconds": 22018812
+    },
+    {
+      "id": 2202,
+      "name": "Codeforces Round 1082 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1771857300,
+      "relativeTimeSeconds": 22018812
+    },
+    {
+      "id": 2192,
+      "name": "Codeforces Round 1081 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1771684500,
+      "relativeTimeSeconds": 22191612
+    },
+    {
+      "id": 2198,
+      "name": "Kotlin Heroes: Practice 14",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 777600,
+      "startTimeSeconds": 1771684200,
+      "relativeTimeSeconds": 22191912
+    },
+    {
+      "id": 2195,
+      "name": "Codeforces Round 1080 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1771166700,
+      "relativeTimeSeconds": 22709412
+    },
+    {
+      "id": 2196,
+      "name": "Codeforces Round 1079 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1770820500,
+      "relativeTimeSeconds": 23055612
+    },
+    {
+      "id": 2197,
+      "name": "Codeforces Round 1079 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1770820500,
+      "relativeTimeSeconds": 23055612
+    },
+    {
+      "id": 2194,
+      "name": "Codeforces Round 1078 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1770541500,
+      "relativeTimeSeconds": 23334612
+    },
+    {
+      "id": 2187,
+      "name": "Codeforces Round 1077 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1769697300,
+      "relativeTimeSeconds": 24178812
+    },
+    {
+      "id": 2188,
+      "name": "Codeforces Round 1077 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1769697300,
+      "relativeTimeSeconds": 24178812
+    },
+    {
+      "id": 2193,
+      "name": "Codeforces Round 1076 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1769351700,
+      "relativeTimeSeconds": 24524412
+    },
+    {
+      "id": 2189,
+      "name": "Codeforces Round 1075 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1769178900,
+      "relativeTimeSeconds": 24697212
+    },
+    {
+      "id": 2185,
+      "name": "Codeforces Round 1074 (Div. 4)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1768746900,
+      "relativeTimeSeconds": 25129212
+    },
+    {
+      "id": 2190,
+      "name": "Codeforces Round 1073 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1768660500,
+      "relativeTimeSeconds": 25215612
+    },
+    {
+      "id": 2191,
+      "name": "Codeforces Round 1073 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1768660500,
+      "relativeTimeSeconds": 25215612
+    },
+    {
+      "id": 2184,
+      "name": "Codeforces Round 1072 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 8100,
+      "startTimeSeconds": 1768228500,
+      "relativeTimeSeconds": 25647612
+    },
+    {
+      "id": 2183,
+      "name": "Hello 2026",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1767796500,
+      "relativeTimeSeconds": 26079612
+    },
+    {
+      "id": 2182,
+      "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1767018900,
+      "relativeTimeSeconds": 26857212
+    },
+    {
+      "id": 2178,
+      "name": "Good Bye 2025",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1766846100,
+      "relativeTimeSeconds": 27030012
+    },
+    {
+      "id": 2177,
+      "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
+      "type": "IOI",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 1382400,
+      "startTimeSeconds": 1766746800,
+      "relativeTimeSeconds": 27129312
+    },
+    {
+      "id": 2179,
+      "name": "Codeforces Round 1071 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1766501100,
+      "relativeTimeSeconds": 27375012
+    },
+    {
+      "id": 2180,
+      "name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1766154900,
+      "relativeTimeSeconds": 27721212
+    },
+    {
+      "id": 2181,
+      "name": "2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 18000,
+      "startTimeSeconds": 1765958700,
+      "relativeTimeSeconds": 27917412
+    },
+    {
+      "id": 2176,
+      "name": "Codeforces Round 1070 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1765463700,
+      "relativeTimeSeconds": 28412412
+    },
+    {
+      "id": 2174,
+      "name": "Codeforces Round 1069 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1765008900,
+      "relativeTimeSeconds": 28867212
+    },
+    {
+      "id": 2175,
+      "name": "Codeforces Round 1069 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1765008900,
+      "relativeTimeSeconds": 28867212
+    },
+    {
+      "id": 2173,
+      "name": "Codeforces Round 1068 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1764945300,
+      "relativeTimeSeconds": 28930812
+    },
+    {
+      "id": 2158,
+      "name": "Codeforces Round 1067 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1764426900,
+      "relativeTimeSeconds": 29449211
+    },
+    {
+      "id": 2170,
+      "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1764340500,
+      "relativeTimeSeconds": 29535612
+    },
+    {
+      "id": 2157,
+      "name": "Codeforces Round 1066 (Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1763890500,
+      "relativeTimeSeconds": 29985612
+    },
+    {
+      "id": 2171,
+      "name": "Codeforces Round 1065 (Div. 3)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 9000,
+      "startTimeSeconds": 1763649300,
+      "relativeTimeSeconds": 30226812
+    },
+    {
+      "id": 2165,
+      "name": "Codeforces Round 1064 (Div. 1)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1763303700,
+      "relativeTimeSeconds": 30572412
+    },
+    {
+      "id": 2166,
+      "name": "Codeforces Round 1064 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1763303700,
+      "relativeTimeSeconds": 30572412
+    },
+    {
+      "id": 2172,
+      "name": "2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 18000,
+      "freezeDurationSeconds": 3600,
+      "startTimeSeconds": 1763257800,
+      "relativeTimeSeconds": 30618312
+    },
+    {
+      "id": 2169,
+      "name": "Educational Codeforces Round 184 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1763130900,
+      "relativeTimeSeconds": 30745212
+    },
+    {
+      "id": 2163,
+      "name": "Codeforces Round 1063 (Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1762787100,
+      "relativeTimeSeconds": 31089012
+    },
+    {
+      "id": 2164,
+      "name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1762439700,
+      "relativeTimeSeconds": 31436412
+    }
+  ],
+  "leetcode": [
+    {
+      "title": "Weekly Contest 527",
+      "titleSlug": "weekly-contest-527",
+      "startTime": 1794105000,
+      "duration": 5400
+    },
+    {
+      "title": "Biweekly Contest 195",
+      "titleSlug": "biweekly-contest-195",
+      "startTime": 1794061800,
+      "duration": 5400
+    },
+    {
+      "title": "Weekly Contest 526",
+      "titleSlug": "weekly-contest-526",
+      "startTime": 1793500200,
+      "duration": 5400
+    },
+    {
+      "title": "Weekly Contest 525",
+      "titleSlug": "weekly-contest-525",
+      "startTime": 1792895400,
+      "duration": 5400
+    },
+    {
+      "title": "Biweekly Contest 194",
+      "titleSlug": "biweekly-contest-194",
+      "startTime": 1792852200,
+      "duration": 5400
+    },
+    {
+      "title": "Weekly Contest 524",
+      "titleSlug": "weekly-contest-524",
+      "startTime": 1792290600,
+      "duration": 5400
+    },
+    {
+      "title": "Weekly Contest 523",
+      "titleSlug": "weekly-contest-523",
+      "startTime": 1791685800,
+      "duration": 5400
+    },
+    {
+      "title": "Biweekly Contest 193",
+      "titleSlug": "biweekly-contest-193",
+      "startTime": 1791642600,
+      "duration": 5400
+    },
+    {
+      "title": "Weekly Contest 522",
+      "titleSlug": "weekly-contest-522",
+      "startTime": 1791081000,
+      "duration": 5400
+    },
+    {
+      "title": "Weekly Contest 521",
+      "titleSlug": "weekly-contest-521",
+      "startTime": 1790476200,
+      "duration": 5400
+    },
+    {
+      "title": "Biweekly Contest 192",
+      "titleSlug": "biweekly-contest-192",
+      "startTime": 1790433000,
+      "duration": 5400
+    },
+    {
+      "title": "Weekly Contest 520",
+      "titleSlug": "weekly-contest-520",
+      "startTime": 1789871400,
+      "duration": 5400
+    }
+  ]
+}

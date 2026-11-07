@@ -1,0 +1,3502 @@
+{
+  "repository": "https://github.com/arnavsharma2711/CP-Striver-Sheet",
+  "commit": "99396aa0b31089c40a8946e0fa56fd902a285c8d",
+  "topics": [
+    {
+      "id": "01",
+      "title": "Implementation-Constructive",
+      "problems": [
+        {
+          "id": "cp:01. Implementation-Constructive/01. 282A.cpp",
+          "code": "282A",
+          "name": "Bit++",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/282/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/01. 282A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/01.%20282A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/02. 514A.cpp",
+          "code": "514A",
+          "name": "Chewbaсca and Number",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/514/A",
+          "rating": 1200,
+          "tags": [
+            "greedy",
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/02. 514A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/02.%20514A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/03. 263A.cpp",
+          "code": "263A",
+          "name": "Beautiful Matrix",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/263/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/03. 263A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/03.%20263A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/04. 151A.cpp",
+          "code": "151A",
+          "name": "Soft Drinking",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/151/A",
+          "rating": 800,
+          "tags": [
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "01. Implementation-Constructive/04. 151A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/04.%20151A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/05. 723A.cpp",
+          "code": "723A",
+          "name": "The New Year: Meeting Friends",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/723/A",
+          "rating": 800,
+          "tags": [
+            "implementation",
+            "math",
+            "sortings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/05. 723A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/05.%20723A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/06. 1352A.cpp",
+          "code": "1352A",
+          "name": "Sum of Round Numbers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1352/A",
+          "rating": 800,
+          "tags": [
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "01. Implementation-Constructive/06. 1352A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/06.%201352A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/07. 510A.cpp",
+          "code": "510A",
+          "name": "Fox And Snake",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/510/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/07. 510A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/07.%20510A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/08. 785A.cpp",
+          "code": "785A",
+          "name": "Anton and Polyhedrons",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/785/A",
+          "rating": 800,
+          "tags": [
+            "implementation",
+            "strings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/08. 785A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/08.%20785A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/09. 144A.cpp",
+          "code": "144A",
+          "name": "Arrival of the General",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/144/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/09. 144A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/09.%20144A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/10. 109A.cpp",
+          "code": "109A",
+          "name": "Lucky Sum of Digits",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/109/A",
+          "rating": 1000,
+          "tags": [
+            "brute force",
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/10. 109A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/10.%20109A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1027A.cpp",
+          "code": "1027A",
+          "name": "Palindromic Twist",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1027/A",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "strings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1027A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1027A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1030A.cpp",
+          "code": "1030A",
+          "name": "In Search of an Easy Problem",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1030/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1030A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1030A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1073A.cpp",
+          "code": "1073A",
+          "name": "Diverse Substring",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1073/A",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "strings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1073A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1073A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1095A.cpp",
+          "code": "1095A",
+          "name": "Repeating Cipher",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1095/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1095A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1095A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1097A.cpp",
+          "code": "1097A",
+          "name": "Gennady and a Card Game",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1097/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1097A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1097A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/11. 136A.cpp",
+          "code": "136A",
+          "name": "Presents",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/136/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/11. 136A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/11.%20136A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1133A.cpp",
+          "code": "1133A",
+          "name": "Middle of the Contest",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1133/A",
+          "rating": 1000,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1133A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1133A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1139B.cpp",
+          "code": "1139B",
+          "name": "Chocolates",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1139/B",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1139B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1139B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1141A.cpp",
+          "code": "1141A",
+          "name": "Game 23",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1141/A",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1141A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1141A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/118A.cpp",
+          "code": "118A",
+          "name": "String Task",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/118/A",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "strings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/118A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/118A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/118B.cpp",
+          "code": "118B",
+          "name": "Present from Lena",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/118/B",
+          "rating": 1000,
+          "tags": [
+            "constructive algorithms",
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/118B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/118B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1199A.cpp",
+          "code": "1199A",
+          "name": "City Day",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1199/A",
+          "rating": 1000,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1199A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1199A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/12. 110A.cpp",
+          "code": "110A",
+          "name": "Nearly Lucky Number",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/110/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/12. 110A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/12.%20110A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1237A.cpp",
+          "code": "1237A",
+          "name": "Balanced Rating Changes",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1237/A",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1237A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1237A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1244B.cpp",
+          "code": "1244B",
+          "name": "Rooms and Staircases",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1244/B",
+          "rating": 1000,
+          "tags": [
+            "brute force",
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1244B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1244B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1278A.cpp",
+          "code": "1278A",
+          "name": "Shuffle Hashing",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1278/A",
+          "rating": 1000,
+          "tags": [
+            "brute force",
+            "implementation",
+            "strings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1278A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1278A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/13. 116A.cpp",
+          "code": "116A",
+          "name": "Tram",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/116/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/13. 116A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/13.%20116A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1300B.cpp",
+          "code": "1300B",
+          "name": "Assigning to Classes",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1300/B",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1300B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1300B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1303A.cpp",
+          "code": "1303A",
+          "name": "Erasing Zeroes",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1303/A",
+          "rating": 800,
+          "tags": [
+            "implementation",
+            "strings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1303A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1303A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/131A.cpp",
+          "code": "131A",
+          "name": "cAPS lOCK",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/131/A",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "strings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/131A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/131A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1368A.cpp",
+          "code": "1368A",
+          "name": "C+=",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1368/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1368A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1368A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1373A.cpp",
+          "code": "1373A",
+          "name": "Donut Shops",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1373/A",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1373A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1373A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1391B.cpp",
+          "code": "1391B",
+          "name": "Fix You",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1391/B",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "greedy",
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1391B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1391B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/139A.cpp",
+          "code": "139A",
+          "name": "Petr and Book",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/139/A",
+          "rating": 1000,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/139A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/139A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/14. 977A.cpp",
+          "code": "977A",
+          "name": "Wrong Subtraction",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/977/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/14. 977A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/14.%20977A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1430C.cpp",
+          "code": "1430C",
+          "name": "Numbers on Whiteboard",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1430/C",
+          "rating": 1000,
+          "tags": [
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1430C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1430C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/1433A.cpp",
+          "code": "1433A",
+          "name": "Boring Apartments",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1433/A",
+          "rating": 800,
+          "tags": [
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "01. Implementation-Constructive/1433A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/1433A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/15. 546A.cpp",
+          "code": "546A",
+          "name": "Soldier and Bananas",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/546/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "01. Implementation-Constructive/15. 546A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/15.%20546A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/16. 791A.cpp",
+          "code": "791A",
+          "name": "Bear and Big Brother",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/791/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/16. 791A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/16.%20791A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/17. 236A.cpp",
+          "code": "236A",
+          "name": "Boy or Girl",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/236/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "implementation",
+            "strings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/17. 236A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/17.%20236A.cpp",
+          "hasSolution": true
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/219A.cpp",
+          "code": "219A",
+          "name": "k-String",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/219/A",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "strings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/219A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/219A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/268B.cpp",
+          "code": "268B",
+          "name": "Buttons",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/268/B",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "01. Implementation-Constructive/268B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/268B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/281A.cpp",
+          "code": "281A",
+          "name": "Word Capitalization",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/281/A",
+          "rating": 800,
+          "tags": [
+            "implementation",
+            "strings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/281A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/281A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/339A.cpp",
+          "code": "339A",
+          "name": "Helpful Maths",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/339/A",
+          "rating": 800,
+          "tags": [
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/339A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/339A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/476A.cpp",
+          "code": "476A",
+          "name": "Dreamoon and Stairs",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/476/A",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "01. Implementation-Constructive/476A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/476A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/486B.cpp",
+          "code": "486B",
+          "name": "OR in Matrix",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/486/B",
+          "rating": 1300,
+          "tags": [
+            "greedy",
+            "hashing",
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/486B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/486B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/492A.cpp",
+          "code": "492A",
+          "name": "Vanya and Cubes",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/492/A",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/492A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/492A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/500A.cpp",
+          "code": "500A",
+          "name": "New Year Transportation",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/500/A",
+          "rating": 1000,
+          "tags": [
+            "dfs and similar",
+            "graphs",
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/500A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/500A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/507A.cpp",
+          "code": "507A",
+          "name": "Amr and Music",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/507/A",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+          ],
+          "sourcePath": "01. Implementation-Constructive/507A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/507A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:01. Implementation-Constructive/702A.cpp",
+          "code": "702A",
+          "name": "Maximum Increase",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/702/A",
+          "rating": 800,
+          "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+          ],
+          "sourcePath": "01. Implementation-Constructive/702A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/01.%20Implementation-Constructive/702A.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Maths",
+      "problems": [
+        {
+          "id": "cp:02. Maths/1038B.cpp",
+          "code": "1038B",
+          "name": "Non-Coprime Partition",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1038/B",
+          "rating": 1100,
+          "tags": [
+            "constructive algorithms",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1038B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1038B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1107B.cpp",
+          "code": "1107B",
+          "name": "Digital root",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1107/B",
+          "rating": 1000,
+          "tags": [
+            "math",
+            "number theory"
+          ],
+          "sourcePath": "02. Maths/1107B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1107B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1117B.cpp",
+          "code": "1117B",
+          "name": "Emotes",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1117/B",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "math",
+            "sortings"
+          ],
+          "sourcePath": "02. Maths/1117B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1117B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1154A.cpp",
+          "code": "1154A",
+          "name": "Restoring Three Numbers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1154/A",
+          "rating": 800,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1154A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1154A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1181A.cpp",
+          "code": "1181A",
+          "name": "Chunga-Changa",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1181/A",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1181A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1181A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1189B.cpp",
+          "code": "1189B",
+          "name": "Number Circle",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1189/B",
+          "rating": 1100,
+          "tags": [
+            "greedy",
+            "math",
+            "sortings"
+          ],
+          "sourcePath": "02. Maths/1189B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1189B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1195A.cpp",
+          "code": "1195A",
+          "name": "Drinks Choosing",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1195/A",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1195A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1195A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1199B.cpp",
+          "code": "1199B",
+          "name": "Water Lily",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1199/B",
+          "rating": 1000,
+          "tags": [
+            "geometry",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1199B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1199B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1204A.cpp",
+          "code": "1204A",
+          "name": "BowWow and the Timetable",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1204/A",
+          "rating": 1000,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1204A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1204A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1257B.cpp",
+          "code": "1257B",
+          "name": "Magic Stick",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1257/B",
+          "rating": 1000,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1257B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1257B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1260A.cpp",
+          "code": "1260A",
+          "name": "Heating",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1260/A",
+          "rating": 1000,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1260A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1260A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1266A.cpp",
+          "code": "1266A",
+          "name": "Competitive Programmer",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1266/A",
+          "rating": 1000,
+          "tags": [
+            "chinese remainder theorem",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1266A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1266A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1266B.cpp",
+          "code": "1266B",
+          "name": "Dice Tower",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1266/B",
+          "rating": 1000,
+          "tags": [
+            "constructive algorithms",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1266B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1266B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1294A.cpp",
+          "code": "1294A",
+          "name": "Collecting Coins",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1294/A",
+          "rating": 800,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1294A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1294A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1296A.cpp",
+          "code": "1296A",
+          "name": "Array with Odd Sum",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1296/A",
+          "rating": 800,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1296A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1296A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1328A.cpp",
+          "code": "1328A",
+          "name": "Divisibility Problem",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1328/A",
+          "rating": 800,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1328A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1328A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1335A.cpp",
+          "code": "1335A",
+          "name": "Candies and Two Sisters",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1335/A",
+          "rating": 800,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1335A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1335A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1337A.cpp",
+          "code": "1337A",
+          "name": "Ichihime and Triangle",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1337/A",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1337A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1337A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1342A.cpp",
+          "code": "1342A",
+          "name": "Road To Zero",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1342/A",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1342A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1342A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1343B.cpp",
+          "code": "1343B",
+          "name": "Balanced Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1343/B",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1343B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1343B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1353A.cpp",
+          "code": "1353A",
+          "name": "Most Unstable Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1353/A",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1353A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1353A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1355A.cpp",
+          "code": "1355A",
+          "name": "Sequence with Digits",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1355/A",
+          "rating": 1200,
+          "tags": [
+            "brute force",
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1355A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1355A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1358A.cpp",
+          "code": "1358A",
+          "name": "Park Lighting",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1358/A",
+          "rating": 800,
+          "tags": [
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1358A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1358A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1359A.cpp",
+          "code": "1359A",
+          "name": "Berland Poker",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1359/A",
+          "rating": 1000,
+          "tags": [
+            "brute force",
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1359A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1359A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1360A.cpp",
+          "code": "1360A",
+          "name": "Minimal Square",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1360/A",
+          "rating": 800,
+          "tags": [
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1360A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1360A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1367B.cpp",
+          "code": "1367B",
+          "name": "Even Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1367/B",
+          "rating": 800,
+          "tags": [
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1367B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1367B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1371A.cpp",
+          "code": "1371A",
+          "name": "Magical Sticks",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1371/A",
+          "rating": 800,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1371A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1371A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1374A.cpp",
+          "code": "1374A",
+          "name": "Required Remainder",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1374/A",
+          "rating": 800,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1374A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1374A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1385A.cpp",
+          "code": "1385A",
+          "name": "Three Pairwise Maximums",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1385/A",
+          "rating": 800,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1385A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1385A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1389A.cpp",
+          "code": "1389A",
+          "name": "LCM Problem",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1389/A",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math",
+            "number theory"
+          ],
+          "sourcePath": "02. Maths/1389A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1389A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1395A.cpp",
+          "code": "1395A",
+          "name": "Boboniu Likes to Color Balls",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1395/A",
+          "rating": 1000,
+          "tags": [
+            "brute force",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1395A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1395A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1409A.cpp",
+          "code": "1409A",
+          "name": "Yet Another Two Integers Problem",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1409/A",
+          "rating": 800,
+          "tags": [
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1409A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1409A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1426A.cpp",
+          "code": "1426A",
+          "name": "Floor Number",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1426/A",
+          "rating": 800,
+          "tags": [
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1426A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1426A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1463A.cpp",
+          "code": "1463A",
+          "name": "Dungeon",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1463/A",
+          "rating": 1100,
+          "tags": [
+            "binary search",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1463A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1463A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1473B.cpp",
+          "code": "1473B",
+          "name": "String LCM",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1473/B",
+          "rating": 1000,
+          "tags": [
+            "brute force",
+            "math",
+            "number theory",
+            "strings"
+          ],
+          "sourcePath": "02. Maths/1473B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1473B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1476A.cpp",
+          "code": "1476A",
+          "name": "K-divisible Sum",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1476/A",
+          "rating": 1000,
+          "tags": [
+            "binary search",
+            "constructive algorithms",
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1476A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1476A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1511B.cpp",
+          "code": "1511B",
+          "name": "GCD Length",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1511/B",
+          "rating": 1100,
+          "tags": [
+            "constructive algorithms",
+            "math",
+            "number theory"
+          ],
+          "sourcePath": "02. Maths/1511B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1511B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1620B.cpp",
+          "code": "1620B",
+          "name": "Triangles on a Rectangle",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1620/B",
+          "rating": 1000,
+          "tags": [
+            "geometry",
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/1620B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1620B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/1A.cpp",
+          "code": "1A",
+          "name": "Theatre Square",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1/A",
+          "rating": 1000,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/1A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/1A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/463B.cpp",
+          "code": "463B",
+          "name": "Caisa and Pylons",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/463/B",
+          "rating": 1100,
+          "tags": [
+            "brute force",
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "02. Maths/463B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/463B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/50A.cpp",
+          "code": "50A",
+          "name": "Domino piling",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/50/A",
+          "rating": 800,
+          "tags": [
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "02. Maths/50A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/50A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/515A.cpp",
+          "code": "515A",
+          "name": "Drazil and Date",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/515/A",
+          "rating": 1000,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/515A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/515A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/610A.cpp",
+          "code": "610A",
+          "name": "Pasha and Stick",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/610/A",
+          "rating": 1000,
+          "tags": [
+            "combinatorics",
+            "math"
+          ],
+          "sourcePath": "02. Maths/610A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/610A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/617A.cpp",
+          "code": "617A",
+          "name": "Elephant",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/617/A",
+          "rating": 800,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/617A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/617A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/630C.cpp",
+          "code": "630C",
+          "name": "Lucky Numbers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/630/C",
+          "rating": 1100,
+          "tags": [
+            "combinatorics",
+            "math"
+          ],
+          "sourcePath": "02. Maths/630C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/630C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/630D.cpp",
+          "code": "630D",
+          "name": "Hexagons!",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/630/D",
+          "rating": 1100,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "02. Maths/630D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/630D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/688B.cpp",
+          "code": "688B",
+          "name": "Lovely Palindromes",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/688/B",
+          "rating": 1000,
+          "tags": [
+            "constructive algorithms",
+            "math"
+          ],
+          "sourcePath": "02. Maths/688B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/688B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/69A.cpp",
+          "code": "69A",
+          "name": "Young Physicist",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/69/A",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "02. Maths/69A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/69A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/732A.cpp",
+          "code": "732A",
+          "name": "Buy a Shovel",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/732/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "constructive algorithms",
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "02. Maths/732A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/732A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:02. Maths/959A.cpp",
+          "code": "959A",
+          "name": "Mahmoud and Ehab and the even-odd game",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/959/A",
+          "rating": 800,
+          "tags": [
+            "games",
+            "math"
+          ],
+          "sourcePath": "02. Maths/959A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/02.%20Maths/959A.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Binary Search",
+      "problems": [
+        {
+          "id": "cp:03. Binary Search/1073C.cpp",
+          "code": "1073C",
+          "name": "Vasya and Robot",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1073/C",
+          "rating": 1800,
+          "tags": [
+            "binary search",
+            "two pointers"
+          ],
+          "sourcePath": "03. Binary Search/1073C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/03.%20Binary%20Search/1073C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:03. Binary Search/1370D.cpp",
+          "code": "1370D",
+          "name": "Odd-Even Subsequence",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1370/D",
+          "rating": 2000,
+          "tags": [
+            "binary search",
+            "dp",
+            "dsu",
+            "greedy",
+            "implementation"
+          ],
+          "sourcePath": "03. Binary Search/1370D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/03.%20Binary%20Search/1370D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:03. Binary Search/1613C.cpp",
+          "code": "1613C",
+          "name": "Poisoned Dagger",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1613/C",
+          "rating": 1200,
+          "tags": [
+            "binary search"
+          ],
+          "sourcePath": "03. Binary Search/1613C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/03.%20Binary%20Search/1613C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:03. Binary Search/287B.cpp",
+          "code": "287B",
+          "name": "Pipeline",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/287/B",
+          "rating": 1700,
+          "tags": [
+            "binary search",
+            "math"
+          ],
+          "sourcePath": "03. Binary Search/287B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/03.%20Binary%20Search/287B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:03. Binary Search/670D1.cpp",
+          "code": "670D1",
+          "name": "Magic Powder - 1",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/670/D1",
+          "rating": 1400,
+          "tags": [
+            "binary search",
+            "brute force",
+            "implementation"
+          ],
+          "sourcePath": "03. Binary Search/670D1.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/03.%20Binary%20Search/670D1.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:03. Binary Search/954E.cpp",
+          "code": "954E",
+          "name": "Water Taps",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/954/E",
+          "rating": 2000,
+          "tags": [
+            "binary search",
+            "greedy",
+            "sortings"
+          ],
+          "sourcePath": "03. Binary Search/954E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/03.%20Binary%20Search/954E.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Prime, Sieve, Prime Factorisation",
+      "problems": [
+        {
+          "id": "cp:04. Prime, Sieve, Prime Factorisation/1101D.cpp",
+          "code": "1101D",
+          "name": "GCD Counting",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1101/D",
+          "rating": 2000,
+          "tags": [
+            "data structures",
+            "dfs and similar",
+            "dp",
+            "number theory",
+            "trees"
+          ],
+          "sourcePath": "04. Prime, Sieve, Prime Factorisation/1101D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/04.%20Prime%2C%20Sieve%2C%20Prime%20Factorisation/1101D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:04. Prime, Sieve, Prime Factorisation/111B.cpp",
+          "code": "111B",
+          "name": "Petya and Divisors",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/111/B",
+          "rating": 1900,
+          "tags": [
+            "binary search",
+            "data structures",
+            "number theory"
+          ],
+          "sourcePath": "04. Prime, Sieve, Prime Factorisation/111B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/04.%20Prime%2C%20Sieve%2C%20Prime%20Factorisation/111B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:04. Prime, Sieve, Prime Factorisation/1228C.cpp",
+          "code": "1228C",
+          "name": "Primes and Multiplication",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1228/C",
+          "rating": 1700,
+          "tags": [
+            "math",
+            "number theory"
+          ],
+          "sourcePath": "04. Prime, Sieve, Prime Factorisation/1228C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/04.%20Prime%2C%20Sieve%2C%20Prime%20Factorisation/1228C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:04. Prime, Sieve, Prime Factorisation/264B.cpp",
+          "code": "264B",
+          "name": "Good Sequences",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/264/B",
+          "rating": 1500,
+          "tags": [
+            "dp",
+            "number theory"
+          ],
+          "sourcePath": "04. Prime, Sieve, Prime Factorisation/264B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/04.%20Prime%2C%20Sieve%2C%20Prime%20Factorisation/264B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:04. Prime, Sieve, Prime Factorisation/spoj_PRIME1.cpp",
+          "code": "PRIME1",
+          "name": "Prime Generator",
+          "platform": "SPOJ",
+          "url": "https://www.spoj.com/problems/PRIME1/",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "04. Prime, Sieve, Prime Factorisation/spoj_PRIME1.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/04.%20Prime%2C%20Sieve%2C%20Prime%20Factorisation/spoj_PRIME1.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:04. Prime, Sieve, Prime Factorisation/spoj_TDKPRIME.cpp",
+          "code": "TDKPRIME",
+          "name": "Finding the Kth Prime",
+          "platform": "SPOJ",
+          "url": "https://www.spoj.com/problems/TDKPRIME/",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "04. Prime, Sieve, Prime Factorisation/spoj_TDKPRIME.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/04.%20Prime%2C%20Sieve%2C%20Prime%20Factorisation/spoj_TDKPRIME.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:04. Prime, Sieve, Prime Factorisation/spoj_TDPRIMES.cpp",
+          "code": "TDPRIMES",
+          "name": "Printing some primes",
+          "platform": "SPOJ",
+          "url": "https://www.spoj.com/problems/TDPRIMES/",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "04. Prime, Sieve, Prime Factorisation/spoj_TDPRIMES.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/04.%20Prime%2C%20Sieve%2C%20Prime%20Factorisation/spoj_TDPRIMES.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Bit Manipulation / Power Set",
+      "problems": [
+        {
+          "id": "cp:05. Bit Manipulation/Power Set/1095C.cpp",
+          "code": "1095C",
+          "name": "Powers Of Two",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1095/C",
+          "rating": 1400,
+          "tags": [
+            "bitmasks",
+            "greedy"
+          ],
+          "sourcePath": "05. Bit Manipulation/Power Set/1095C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/05.%20Bit%20Manipulation/Power%20Set/1095C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:05. Bit Manipulation/Power Set/1097B.cpp",
+          "code": "1097B",
+          "name": "Petr and a Combination Lock",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1097/B",
+          "rating": 1200,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "dp"
+          ],
+          "sourcePath": "05. Bit Manipulation/Power Set/1097B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/05.%20Bit%20Manipulation/Power%20Set/1097B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:05. Bit Manipulation/Power Set/1151B.cpp",
+          "code": "1151B",
+          "name": "Dima and a Bad XOR",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1151/B",
+          "rating": 1600,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dp"
+          ],
+          "sourcePath": "05. Bit Manipulation/Power Set/1151B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/05.%20Bit%20Manipulation/Power%20Set/1151B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:05. Bit Manipulation/Power Set/1174D.cpp",
+          "code": "1174D",
+          "name": "Ehab and the Expected XOR Problem",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1174/D",
+          "rating": 1900,
+          "tags": [
+            "bitmasks",
+            "constructive algorithms"
+          ],
+          "sourcePath": "05. Bit Manipulation/Power Set/1174D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/05.%20Bit%20Manipulation/Power%20Set/1174D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:05. Bit Manipulation/Power Set/1225C.cpp",
+          "code": "1225C",
+          "name": "p-binary",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1225/C",
+          "rating": 1600,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "math"
+          ],
+          "sourcePath": "05. Bit Manipulation/Power Set/1225C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/05.%20Bit%20Manipulation/Power%20Set/1225C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:05. Bit Manipulation/Power Set/1391D.cpp",
+          "code": "1391D",
+          "name": "505",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1391/D",
+          "rating": 2000,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dp",
+            "greedy",
+            "implementation"
+          ],
+          "sourcePath": "05. Bit Manipulation/Power Set/1391D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/05.%20Bit%20Manipulation/Power%20Set/1391D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:05. Bit Manipulation/Power Set/1491D.cpp",
+          "code": "1491D",
+          "name": "Zookeeper and The Infinite Zoo",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1491/D",
+          "rating": 1800,
+          "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "dp",
+            "greedy",
+            "math"
+          ],
+          "sourcePath": "05. Bit Manipulation/Power Set/1491D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/05.%20Bit%20Manipulation/Power%20Set/1491D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:05. Bit Manipulation/Power Set/1494B.cpp",
+          "code": "1494B",
+          "name": "Berland Crossword",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1494/B",
+          "rating": 1400,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "greedy",
+            "implementation"
+          ],
+          "sourcePath": "05. Bit Manipulation/Power Set/1494B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/05.%20Bit%20Manipulation/Power%20Set/1494B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:05. Bit Manipulation/Power Set/1594B.cpp",
+          "code": "1594B",
+          "name": "Special Numbers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1594/B",
+          "rating": 1100,
+          "tags": [
+            "bitmasks",
+            "math"
+          ],
+          "sourcePath": "05. Bit Manipulation/Power Set/1594B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/05.%20Bit%20Manipulation/Power%20Set/1594B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:05. Bit Manipulation/Power Set/1602C.cpp",
+          "code": "1602C",
+          "name": "Array Elimination",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1602/C",
+          "rating": 1300,
+          "tags": [
+            "bitmasks",
+            "math",
+            "number theory"
+          ],
+          "sourcePath": "05. Bit Manipulation/Power Set/1602C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/05.%20Bit%20Manipulation/Power%20Set/1602C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:05. Bit Manipulation/Power Set/912B.cpp",
+          "code": "912B",
+          "name": "New Year's Eve",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/912/B",
+          "rating": 1300,
+          "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "number theory"
+          ],
+          "sourcePath": "05. Bit Manipulation/Power Set/912B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/05.%20Bit%20Manipulation/Power%20Set/912B.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Stack / Queues / Priority Queues",
+      "problems": [
+        {
+          "id": "cp:06. Stack/Queues/PriorityQueues/1092D1.cpp",
+          "code": "1092D1",
+          "name": "Great Vova Wall (Version 1)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1092/D1",
+          "rating": 2200,
+          "tags": [
+            "greedy",
+            "implementation",
+            "math"
+          ],
+          "sourcePath": "06. Stack/Queues/PriorityQueues/1092D1.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/06.%20Stack/Queues/PriorityQueues/1092D1.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:06. Stack/Queues/PriorityQueues/1092D2.cpp",
+          "code": "1092D2",
+          "name": "Great Vova Wall (Version 2)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1092/D2",
+          "rating": 2200,
+          "tags": [
+            "data structures",
+            "implementation"
+          ],
+          "sourcePath": "06. Stack/Queues/PriorityQueues/1092D2.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/06.%20Stack/Queues/PriorityQueues/1092D2.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:06. Stack/Queues/PriorityQueues/1313C2.cpp",
+          "code": "1313C2",
+          "name": "Skyscrapers (hard version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1313/C2",
+          "rating": 1900,
+          "tags": [
+            "data structures",
+            "dp",
+            "greedy"
+          ],
+          "sourcePath": "06. Stack/Queues/PriorityQueues/1313C2.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/06.%20Stack/Queues/PriorityQueues/1313C2.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:06. Stack/Queues/PriorityQueues/1515C.cpp",
+          "code": "1515C",
+          "name": "Phoenix and Towers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1515/C",
+          "rating": 1400,
+          "tags": [
+            "constructive algorithms",
+            "data structures",
+            "greedy"
+          ],
+          "sourcePath": "06. Stack/Queues/PriorityQueues/1515C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/06.%20Stack/Queues/PriorityQueues/1515C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:06. Stack/Queues/PriorityQueues/359D.cpp",
+          "code": "359D",
+          "name": "Pair of Numbers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/359/D",
+          "rating": 2000,
+          "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "math",
+            "two pointers"
+          ],
+          "sourcePath": "06. Stack/Queues/PriorityQueues/359D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/06.%20Stack/Queues/PriorityQueues/359D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:06. Stack/Queues/PriorityQueues/487B.cpp",
+          "code": "487B",
+          "name": "Strip",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/487/B",
+          "rating": 2000,
+          "tags": [
+            "binary search",
+            "data structures",
+            "dp",
+            "two pointers"
+          ],
+          "sourcePath": "06. Stack/Queues/PriorityQueues/487B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/06.%20Stack/Queues/PriorityQueues/487B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:06. Stack/Queues/PriorityQueues/507E.cpp",
+          "code": "507E",
+          "name": "Breaking Good",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/507/E",
+          "rating": 2100,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "shortest paths"
+          ],
+          "sourcePath": "06. Stack/Queues/PriorityQueues/507E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/06.%20Stack/Queues/PriorityQueues/507E.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "String Algorithms",
+      "problems": [
+        {
+          "id": "cp:07. String Algorithms/1080E.cpp",
+          "code": "1080E",
+          "name": "Sonya and Matrix Beauty",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1080/E",
+          "rating": 2400,
+          "tags": [
+            "strings"
+          ],
+          "sourcePath": "07. String Algorithms/1080E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/07.%20String%20Algorithms/1080E.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:07. String Algorithms/126B.cpp",
+          "code": "126B",
+          "name": "Password",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/126/B",
+          "rating": 1700,
+          "tags": [
+            "binary search",
+            "dp",
+            "hashing",
+            "string suffix structures",
+            "strings"
+          ],
+          "sourcePath": "07. String Algorithms/126B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/07.%20String%20Algorithms/126B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:07. String Algorithms/1326D2.cpp",
+          "code": "1326D2",
+          "name": "Prefix-Suffix Palindrome (Hard version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1326/D2",
+          "rating": 1800,
+          "tags": [
+            "binary search",
+            "greedy",
+            "hashing",
+            "string suffix structures",
+            "strings"
+          ],
+          "sourcePath": "07. String Algorithms/1326D2.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/07.%20String%20Algorithms/1326D2.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:07. String Algorithms/1537E2.cpp",
+          "code": "1537E2",
+          "name": "Erase and Extend (Hard Version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1537/E2",
+          "rating": 2200,
+          "tags": [
+            "binary search",
+            "data structures",
+            "greedy",
+            "hashing",
+            "string suffix structures",
+            "strings",
+            "two pointers"
+          ],
+          "sourcePath": "07. String Algorithms/1537E2.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/07.%20String%20Algorithms/1537E2.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:07. String Algorithms/271D.cpp",
+          "code": "271D",
+          "name": "Good Substrings",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/271/D",
+          "rating": 1800,
+          "tags": [
+            "data structures",
+            "strings"
+          ],
+          "sourcePath": "07. String Algorithms/271D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/07.%20String%20Algorithms/271D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:07. String Algorithms/432D.cpp",
+          "code": "432D",
+          "name": "Prefixes and Suffixes",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/432/D",
+          "rating": 2000,
+          "tags": [
+            "dp",
+            "string suffix structures",
+            "strings",
+            "two pointers"
+          ],
+          "sourcePath": "07. String Algorithms/432D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/07.%20String%20Algorithms/432D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:07. String Algorithms/633C.cpp",
+          "code": "633C",
+          "name": "Spy Syndrome 2",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/633/C",
+          "rating": 1900,
+          "tags": [
+            "data structures",
+            "dp",
+            "hashing",
+            "implementation",
+            "sortings",
+            "string suffix structures",
+            "strings"
+          ],
+          "sourcePath": "07. String Algorithms/633C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/07.%20String%20Algorithms/633C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:07. String Algorithms/spoj_EPALIN.cpp",
+          "code": "EPALIN",
+          "name": "Extend to Palindrome",
+          "platform": "SPOJ",
+          "url": "https://www.spoj.com/problems/EPALIN/",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "07. String Algorithms/spoj_EPALIN.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/07.%20String%20Algorithms/spoj_EPALIN.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:07. String Algorithms/spoj_LPS.cpp",
+          "code": "LPS",
+          "name": "Longest Palindromic Substring",
+          "platform": "SPOJ",
+          "url": "https://www.spoj.com/problems/LPS/",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "07. String Algorithms/spoj_LPS.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/07.%20String%20Algorithms/spoj_LPS.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:07. String Algorithms/spoj_MSUBSTR.cpp",
+          "code": "MSUBSTR",
+          "name": "Mirror Strings !!!",
+          "platform": "SPOJ",
+          "url": "https://www.spoj.com/problems/MSUBSTR/",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "07. String Algorithms/spoj_MSUBSTR.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/07.%20String%20Algorithms/spoj_MSUBSTR.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:07. String Algorithms/spoj_NUMOFPAL.cpp",
+          "code": "NUMOFPAL",
+          "name": "Number of Palindromes",
+          "platform": "SPOJ",
+          "url": "https://www.spoj.com/problems/NUMOFPAL/",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "07. String Algorithms/spoj_NUMOFPAL.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/07.%20String%20Algorithms/spoj_NUMOFPAL.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "BFS",
+      "problems": [
+        {
+          "id": "cp:08. BFS/1006F.cpp",
+          "code": "1006F",
+          "name": "Xor-Paths",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1006/F",
+          "rating": 2100,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "dp",
+            "meet-in-the-middle"
+          ],
+          "sourcePath": "08. BFS/1006F.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/08.%20BFS/1006F.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "Tree's",
+      "problems": [
+        {
+          "id": "cp:09. Tree's/1006E.cpp",
+          "code": "1006E",
+          "name": "Military Problem",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1006/E",
+          "rating": 1600,
+          "tags": [
+            "dfs and similar",
+            "graphs",
+            "trees"
+          ],
+          "sourcePath": "09. Tree's/1006E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/09.%20Tree%27s/1006E.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:09. Tree's/102693A.cpp",
+          "code": "102694A",
+          "name": "Circumference of a Tree",
+          "platform": "Codeforces Gym",
+          "url": "https://codeforces.com/gym/102694/problem/A",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "09. Tree's/102693A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/09.%20Tree%27s/102693A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:09. Tree's/102694.cpp",
+          "code": "102694B",
+          "name": "Dynamic Diameter",
+          "platform": "Codeforces Gym",
+          "url": "https://codeforces.com/gym/102694/problem/B",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "09. Tree's/102694.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/09.%20Tree%27s/102694.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:09. Tree's/1294F.cpp",
+          "code": "1294F",
+          "name": "Three Paths on a Tree",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1294/F",
+          "rating": 2000,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "greedy",
+            "trees"
+          ],
+          "sourcePath": "09. Tree's/1294F.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/09.%20Tree%27s/1294F.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:09. Tree's/cses_1130.cpp",
+          "code": "1130",
+          "name": "Tree Matching",
+          "platform": "CSES",
+          "url": "https://cses.fi/problemset/task/1130/",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "09. Tree's/cses_1130.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/09.%20Tree%27s/cses_1130.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:09. Tree's/cses_1133.cpp",
+          "code": "1133",
+          "name": "Tree Distances II",
+          "platform": "CSES",
+          "url": "https://cses.fi/problemset/task/1133/",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "09. Tree's/cses_1133.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/09.%20Tree%27s/cses_1133.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:09. Tree's/cses_1674.cpp",
+          "code": "1674",
+          "name": "Subordinates",
+          "platform": "CSES",
+          "url": "https://cses.fi/problemset/task/1674/",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "09. Tree's/cses_1674.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/09.%20Tree%27s/cses_1674.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "LCA",
+      "problems": [
+        {
+          "id": "cp:10. LCA/102694E.cpp",
+          "code": "102694E",
+          "name": "Filthy Rich Trees",
+          "platform": "Codeforces Gym",
+          "url": "https://codeforces.com/gym/102694/problem/E",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "10. LCA/102694E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/10.%20LCA/102694E.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:10. LCA/102694F.cpp",
+          "code": "102694F",
+          "name": "The Lorax",
+          "platform": "Codeforces Gym",
+          "url": "https://codeforces.com/gym/102694/problem/F",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "10. LCA/102694F.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/10.%20LCA/102694F.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:10. LCA/587C.cpp",
+          "code": "587C",
+          "name": "Duff in the Army",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/587/C",
+          "rating": 2200,
+          "tags": [
+            "data structures",
+            "trees"
+          ],
+          "sourcePath": "10. LCA/587C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/10.%20LCA/587C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:10. LCA/587D.cpp",
+          "code": "102694D",
+          "name": "Cycle Free Flow",
+          "platform": "Codeforces Gym",
+          "url": "https://codeforces.com/gym/102694/problem/D",
+          "rating": null,
+          "tags": [],
+          "sourcePath": "10. LCA/587D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/10.%20LCA/587D.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Graph Algorithms",
+      "problems": [
+        {
+          "id": "cp:11. Graph Algorithms/115A.cpp",
+          "code": "115A",
+          "name": "Party",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/115/A",
+          "rating": 900,
+          "tags": [
+            "dfs and similar",
+            "graphs",
+            "trees"
+          ],
+          "sourcePath": "11. Graph Algorithms/115A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/115A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/1213F.cpp",
+          "code": "1213F",
+          "name": "Unstable String Sort",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1213/F",
+          "rating": 2100,
+          "tags": [
+            "data structures",
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "greedy",
+            "implementation",
+            "strings"
+          ],
+          "sourcePath": "11. Graph Algorithms/1213F.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/1213F.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/1296E1.cpp",
+          "code": "1296E1",
+          "name": "String Coloring (easy version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1296/E1",
+          "rating": 1800,
+          "tags": [
+            "constructive algorithms",
+            "dp",
+            "graphs",
+            "greedy",
+            "sortings"
+          ],
+          "sourcePath": "11. Graph Algorithms/1296E1.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/1296E1.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/1343E.cpp",
+          "code": "1343E",
+          "name": "Weights Distributing",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1343/E",
+          "rating": 2100,
+          "tags": [
+            "brute force",
+            "graphs",
+            "greedy",
+            "shortest paths",
+            "sortings"
+          ],
+          "sourcePath": "11. Graph Algorithms/1343E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/1343E.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/1547G.cpp",
+          "code": "1547G",
+          "name": "How Many Paths?",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1547/G",
+          "rating": 2100,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "trees"
+          ],
+          "sourcePath": "11. Graph Algorithms/1547G.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/1547G.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/1573C.cpp",
+          "code": "1573C",
+          "name": "Book",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1573/C",
+          "rating": 1800,
+          "tags": [
+            "data structures",
+            "dp",
+            "graphs",
+            "implementation"
+          ],
+          "sourcePath": "11. Graph Algorithms/1573C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/1573C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/178B#.cpp",
+          "code": "178B3",
+          "name": "Greedy Merchants",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/178/B3",
+          "rating": 1800,
+          "tags": [],
+          "sourcePath": "11. Graph Algorithms/178B#.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/178B%23.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/229B.cpp",
+          "code": "229B",
+          "name": "Planets",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/229/B",
+          "rating": 1700,
+          "tags": [
+            "binary search",
+            "data structures",
+            "graphs",
+            "shortest paths"
+          ],
+          "sourcePath": "11. Graph Algorithms/229B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/229B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/400D.cpp",
+          "code": "400D",
+          "name": "Dima and Bacteria",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/400/D",
+          "rating": 2000,
+          "tags": [
+            "dsu",
+            "graphs",
+            "shortest paths"
+          ],
+          "sourcePath": "11. Graph Algorithms/400D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/400D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/475B.cpp",
+          "code": "475B",
+          "name": "Strongly Connected City",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/475/B",
+          "rating": 1400,
+          "tags": [
+            "brute force",
+            "dfs and similar",
+            "graphs",
+            "implementation"
+          ],
+          "sourcePath": "11. Graph Algorithms/475B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/475B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/520B.cpp",
+          "code": "520B",
+          "name": "Two Buttons",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/520/B",
+          "rating": 1400,
+          "tags": [
+            "dfs and similar",
+            "graphs",
+            "greedy",
+            "implementation",
+            "math",
+            "shortest paths"
+          ],
+          "sourcePath": "11. Graph Algorithms/520B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/520B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/580C.cpp",
+          "code": "580C",
+          "name": "Kefa and Park",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/580/C",
+          "rating": 1500,
+          "tags": [
+            "dfs and similar",
+            "graphs",
+            "trees"
+          ],
+          "sourcePath": "11. Graph Algorithms/580C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/580C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/977E.cpp",
+          "code": "977E",
+          "name": "Cyclic Components",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/977/E",
+          "rating": 1500,
+          "tags": [
+            "dfs and similar",
+            "dsu",
+            "graphs"
+          ],
+          "sourcePath": "11. Graph Algorithms/977E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/977E.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:11. Graph Algorithms/986A.cpp",
+          "code": "986A",
+          "name": "Fair",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/986/A",
+          "rating": 1600,
+          "tags": [
+            "graphs",
+            "greedy",
+            "number theory",
+            "shortest paths"
+          ],
+          "sourcePath": "11. Graph Algorithms/986A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/11.%20Graph%20Algorithms/986A.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Matrix Exponentiation",
+      "problems": [
+        {
+          "id": "cp:12. Matrix Exponentiation/1117D.cpp",
+          "code": "1117D",
+          "name": "Magic Gems",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1117/D",
+          "rating": 2100,
+          "tags": [
+            "dp",
+            "math",
+            "matrices"
+          ],
+          "sourcePath": "12. Matrix Exponentiation/1117D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/12.%20Matrix%20Exponentiation/1117D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:12. Matrix Exponentiation/1182E.cpp",
+          "code": "1182E",
+          "name": "Product Oriented Recurrence",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1182/E",
+          "rating": 2300,
+          "tags": [
+            "dp",
+            "math",
+            "matrices",
+            "number theory"
+          ],
+          "sourcePath": "12. Matrix Exponentiation/1182E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/12.%20Matrix%20Exponentiation/1182E.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:12. Matrix Exponentiation/185A.cpp",
+          "code": "185A",
+          "name": "Plant",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/185/A",
+          "rating": 1300,
+          "tags": [
+            "math"
+          ],
+          "sourcePath": "12. Matrix Exponentiation/185A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/12.%20Matrix%20Exponentiation/185A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:12. Matrix Exponentiation/582B.cpp",
+          "code": "582B",
+          "name": "Once Again...",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/582/B",
+          "rating": 1900,
+          "tags": [
+            "constructive algorithms",
+            "dp",
+            "matrices"
+          ],
+          "sourcePath": "12. Matrix Exponentiation/582B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/12.%20Matrix%20Exponentiation/582B.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Trie",
+      "problems": [
+        {
+          "id": "cp:13. Trie/113B.cpp",
+          "code": "113B",
+          "name": "Petr#",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/113/B",
+          "rating": 2000,
+          "tags": [
+            "brute force",
+            "data structures",
+            "hashing",
+            "strings"
+          ],
+          "sourcePath": "13. Trie/113B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/13.%20Trie/113B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:13. Trie/282E.cpp",
+          "code": "282E",
+          "name": "Sausage Maximization",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/282/E",
+          "rating": 2200,
+          "tags": [
+            "bitmasks",
+            "data structures",
+            "trees"
+          ],
+          "sourcePath": "13. Trie/282E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/13.%20Trie/282E.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:13. Trie/858D.cpp",
+          "code": "858D",
+          "name": "Polycarp's phone book",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/858/D",
+          "rating": 1600,
+          "tags": [
+            "data structures",
+            "implementation",
+            "sortings"
+          ],
+          "sourcePath": "13. Trie/858D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/13.%20Trie/858D.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Dynamic Programming",
+      "problems": [
+        {
+          "id": "cp:14. Dynamic Programming/1042B.cpp",
+          "code": "1042B",
+          "name": "Vitamins",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1042/B",
+          "rating": 1200,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "dp",
+            "implementation"
+          ],
+          "sourcePath": "14. Dynamic Programming/1042B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/1042B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/1083E.cpp",
+          "code": "1083E",
+          "name": "The Fair Nut and Rectangles",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1083/E",
+          "rating": 2400,
+          "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+          ],
+          "sourcePath": "14. Dynamic Programming/1083E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/1083E.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/1195C.cpp",
+          "code": "1195C",
+          "name": "Basketball Exercise",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1195/C",
+          "rating": 1400,
+          "tags": [
+            "dp"
+          ],
+          "sourcePath": "14. Dynamic Programming/1195C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/1195C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/1216F.cpp",
+          "code": "1216F",
+          "name": "Wi-Fi",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1216/F",
+          "rating": 2100,
+          "tags": [
+            "data structures",
+            "dp",
+            "greedy"
+          ],
+          "sourcePath": "14. Dynamic Programming/1216F.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/1216F.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/1350B.cpp",
+          "code": "1350B",
+          "name": "Orac and Models",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1350/B",
+          "rating": 1400,
+          "tags": [
+            "dp",
+            "math",
+            "number theory"
+          ],
+          "sourcePath": "14. Dynamic Programming/1350B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/1350B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/1420C1.cpp",
+          "code": "1420C1",
+          "name": "Pokémon Army (easy version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1420/C1",
+          "rating": 1300,
+          "tags": [
+            "constructive algorithms",
+            "dp",
+            "greedy"
+          ],
+          "sourcePath": "14. Dynamic Programming/1420C1.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/1420C1.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/1469B.cpp",
+          "code": "1469B",
+          "name": "Red and Blue",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1469/B",
+          "rating": 1000,
+          "tags": [
+            "dp",
+            "greedy"
+          ],
+          "sourcePath": "14. Dynamic Programming/1469B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/1469B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/1501B.cpp",
+          "code": "1501B",
+          "name": "Napoleon Cake",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1501/B",
+          "rating": 900,
+          "tags": [
+            "dp",
+            "implementation",
+            "sortings"
+          ],
+          "sourcePath": "14. Dynamic Programming/1501B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/1501B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/189A.cpp",
+          "code": "189A",
+          "name": "Cut Ribbon",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/189/A",
+          "rating": 1300,
+          "tags": [
+            "brute force",
+            "dp"
+          ],
+          "sourcePath": "14. Dynamic Programming/189A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/189A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/204A.cpp",
+          "code": "204A",
+          "name": "Little Elephant and Interval",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/204/A",
+          "rating": 1500,
+          "tags": [
+            "binary search",
+            "combinatorics",
+            "dp"
+          ],
+          "sourcePath": "14. Dynamic Programming/204A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/204A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/313B.cpp",
+          "code": "313B",
+          "name": "Ilya and Queries",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/313/B",
+          "rating": 1100,
+          "tags": [
+            "dp",
+            "implementation"
+          ],
+          "sourcePath": "14. Dynamic Programming/313B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/313B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/319C.cpp",
+          "code": "319C",
+          "name": "Kalila and Dimna in the Logging Industry",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/319/C",
+          "rating": 2100,
+          "tags": [
+            "dp",
+            "geometry"
+          ],
+          "sourcePath": "14. Dynamic Programming/319C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/319C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/327A.cpp",
+          "code": "327A",
+          "name": "Flipping Game",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/327/A",
+          "rating": 1200,
+          "tags": [
+            "brute force",
+            "dp",
+            "implementation"
+          ],
+          "sourcePath": "14. Dynamic Programming/327A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/327A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/363B.cpp",
+          "code": "363B",
+          "name": "Fence",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/363/B",
+          "rating": 1100,
+          "tags": [
+            "brute force",
+            "dp"
+          ],
+          "sourcePath": "14. Dynamic Programming/363B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/363B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/414B.cpp",
+          "code": "414B",
+          "name": "Mashmokh and ACM",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/414/B",
+          "rating": 1400,
+          "tags": [
+            "combinatorics",
+            "dp",
+            "number theory"
+          ],
+          "sourcePath": "14. Dynamic Programming/414B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/414B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/461B.cpp",
+          "code": "461B",
+          "name": "Appleman and Tree",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/461/B",
+          "rating": 2000,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "trees"
+          ],
+          "sourcePath": "14. Dynamic Programming/461B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/461B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/522A.cpp",
+          "code": "522A",
+          "name": "Reposts",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/522/A",
+          "rating": 1200,
+          "tags": [
+            "*special",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "trees"
+          ],
+          "sourcePath": "14. Dynamic Programming/522A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/522A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/540D.cpp",
+          "code": "540D",
+          "name": "Bad Luck Island",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/540/D",
+          "rating": 1900,
+          "tags": [
+            "dp",
+            "probabilities"
+          ],
+          "sourcePath": "14. Dynamic Programming/540D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/540D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/702A.cpp",
+          "code": "702A",
+          "name": "Maximum Increase",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/702/A",
+          "rating": 800,
+          "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+          ],
+          "sourcePath": "14. Dynamic Programming/702A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/702A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/894A.cpp",
+          "code": "894A",
+          "name": "QAQ",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/894/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "dp"
+          ],
+          "sourcePath": "14. Dynamic Programming/894A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/894A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:14. Dynamic Programming/961B.cpp",
+          "code": "961B",
+          "name": "Lecture Sleep",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/961/B",
+          "rating": 1200,
+          "tags": [
+            "data structures",
+            "dp",
+            "implementation",
+            "two pointers"
+          ],
+          "sourcePath": "14. Dynamic Programming/961B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/14.%20Dynamic%20Programming/961B.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Disjoint Set",
+      "problems": [
+        {
+          "id": "cp:15. Disjoint Set/1156D.cpp",
+          "code": "1156D",
+          "name": "0-1-Tree",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1156/D",
+          "rating": 2200,
+          "tags": [
+            "dfs and similar",
+            "divide and conquer",
+            "dp",
+            "dsu",
+            "trees"
+          ],
+          "sourcePath": "15. Disjoint Set/1156D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/15.%20Disjoint%20Set/1156D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:15. Disjoint Set/1213G.cpp",
+          "code": "1213G",
+          "name": "Path Queries",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1213/G",
+          "rating": 1800,
+          "tags": [
+            "divide and conquer",
+            "dsu",
+            "graphs",
+            "sortings",
+            "trees"
+          ],
+          "sourcePath": "15. Disjoint Set/1213G.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/15.%20Disjoint%20Set/1213G.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:15. Disjoint Set/1494D.cpp",
+          "code": "1494D",
+          "name": "Dogeforces",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1494/D",
+          "rating": 2300,
+          "tags": [
+            "constructive algorithms",
+            "data structures",
+            "dfs and similar",
+            "divide and conquer",
+            "dsu",
+            "greedy",
+            "sortings",
+            "trees"
+          ],
+          "sourcePath": "15. Disjoint Set/1494D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/15.%20Disjoint%20Set/1494D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:15. Disjoint Set/1534C.cpp",
+          "code": "1534C",
+          "name": "Little Alawn's Puzzle",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1534/C",
+          "rating": 1300,
+          "tags": [
+            "combinatorics",
+            "dp",
+            "dsu",
+            "graphs",
+            "math"
+          ],
+          "sourcePath": "15. Disjoint Set/1534C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/15.%20Disjoint%20Set/1534C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:15. Disjoint Set/217A.cpp",
+          "code": "217A",
+          "name": "Ice Skating",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/217/A",
+          "rating": 1200,
+          "tags": [
+            "brute force",
+            "dfs and similar",
+            "dsu",
+            "graphs"
+          ],
+          "sourcePath": "15. Disjoint Set/217A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/15.%20Disjoint%20Set/217A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:15. Disjoint Set/277A.cpp",
+          "code": "277A",
+          "name": "Learning Languages",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/277/A",
+          "rating": 1400,
+          "tags": [
+            "dfs and similar",
+            "dsu"
+          ],
+          "sourcePath": "15. Disjoint Set/277A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/15.%20Disjoint%20Set/277A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:15. Disjoint Set/455C.cpp",
+          "code": "455C",
+          "name": "Civilization",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/455/C",
+          "rating": 2100,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "dsu",
+            "ternary search",
+            "trees"
+          ],
+          "sourcePath": "15. Disjoint Set/455C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/15.%20Disjoint%20Set/455C.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Sqrt Decomposition / MO's Algorithm",
+      "problems": [
+        {
+          "id": "cp:16. Sqrt Decomposition/ MO's algo/220B.cpp",
+          "code": "220B",
+          "name": "Little Elephant and Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/220/B",
+          "rating": 1800,
+          "tags": [
+            "constructive algorithms",
+            "data structures"
+          ],
+          "sourcePath": "16. Sqrt Decomposition/ MO's algo/220B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/16.%20Sqrt%20Decomposition/%20MO%27s%20algo/220B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:16. Sqrt Decomposition/ MO's algo/242E.cpp",
+          "code": "242E",
+          "name": "XOR on Segment",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/242/E",
+          "rating": 2000,
+          "tags": [
+            "bitmasks",
+            "data structures"
+          ],
+          "sourcePath": "16. Sqrt Decomposition/ MO's algo/242E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/16.%20Sqrt%20Decomposition/%20MO%27s%20algo/242E.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:16. Sqrt Decomposition/ MO's algo/375D.cpp",
+          "code": "375D",
+          "name": "Tree and Queries",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/375/D",
+          "rating": 2400,
+          "tags": [
+            "data structures",
+            "dfs and similar",
+            "trees"
+          ],
+          "sourcePath": "16. Sqrt Decomposition/ MO's algo/375D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/16.%20Sqrt%20Decomposition/%20MO%27s%20algo/375D.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Fenwick Tree",
+      "problems": [
+        {
+          "id": "cp:17. Fenwick Tree/1311F.cpp",
+          "code": "1311F",
+          "name": "Moving Points",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1311/F",
+          "rating": 1900,
+          "tags": [
+            "data structures",
+            "divide and conquer",
+            "implementation",
+            "sortings"
+          ],
+          "sourcePath": "17. Fenwick Tree/1311F.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/17.%20Fenwick%20Tree/1311F.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:17. Fenwick Tree/276E.cpp",
+          "code": "276E",
+          "name": "Little Girl and Problem on Trees",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/276/E",
+          "rating": 2100,
+          "tags": [
+            "data structures",
+            "graphs",
+            "trees"
+          ],
+          "sourcePath": "17. Fenwick Tree/276E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/17.%20Fenwick%20Tree/276E.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:17. Fenwick Tree/283A.cpp",
+          "code": "283A",
+          "name": "Cows and Sequence",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/283/A",
+          "rating": 1600,
+          "tags": [
+            "constructive algorithms",
+            "data structures",
+            "implementation"
+          ],
+          "sourcePath": "17. Fenwick Tree/283A.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/17.%20Fenwick%20Tree/283A.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:17. Fenwick Tree/375D.cpp",
+          "code": "375D",
+          "name": "Tree and Queries",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/375/D",
+          "rating": 2400,
+          "tags": [
+            "data structures",
+            "dfs and similar",
+            "trees"
+          ],
+          "sourcePath": "17. Fenwick Tree/375D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/17.%20Fenwick%20Tree/375D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:17. Fenwick Tree/383C.cpp",
+          "code": "383C",
+          "name": "Propagating tree",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/383/C",
+          "rating": 2000,
+          "tags": [
+            "data structures",
+            "dfs and similar",
+            "trees"
+          ],
+          "sourcePath": "17. Fenwick Tree/383C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/17.%20Fenwick%20Tree/383C.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Segment Tree(lazy also included)",
+      "problems": [
+        {
+          "id": "cp:18. Segment Tree(lazy also included)/1567E.cpp",
+          "code": "1567E",
+          "name": "Non-Decreasing Dilemma",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1567/E",
+          "rating": 2200,
+          "tags": [
+            "data structures",
+            "divide and conquer",
+            "math"
+          ],
+          "sourcePath": "18. Segment Tree(lazy also included)/1567E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/18.%20Segment%20Tree%28lazy%20also%20included%29/1567E.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:18. Segment Tree(lazy also included)/380C.cpp",
+          "code": "380C",
+          "name": "Sereja and Brackets",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/380/C",
+          "rating": 2000,
+          "tags": [
+            "data structures",
+            "schedules"
+          ],
+          "sourcePath": "18. Segment Tree(lazy also included)/380C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/18.%20Segment%20Tree%28lazy%20also%20included%29/380C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:18. Segment Tree(lazy also included)/438D.cpp",
+          "code": "438D",
+          "name": "The Child and Sequence",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/438/D",
+          "rating": 2300,
+          "tags": [
+            "data structures",
+            "math"
+          ],
+          "sourcePath": "18. Segment Tree(lazy also included)/438D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/18.%20Segment%20Tree%28lazy%20also%20included%29/438D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:18. Segment Tree(lazy also included)/482B.cpp",
+          "code": "482B",
+          "name": "Interesting Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/482/B",
+          "rating": 1800,
+          "tags": [
+            "constructive algorithms",
+            "data structures",
+            "trees"
+          ],
+          "sourcePath": "18. Segment Tree(lazy also included)/482B.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/18.%20Segment%20Tree%28lazy%20also%20included%29/482B.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:18. Segment Tree(lazy also included)/920F.cpp",
+          "code": "920F",
+          "name": "SUM and REPLACE",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/920/F",
+          "rating": 2000,
+          "tags": [
+            "brute force",
+            "data structures",
+            "dsu",
+            "number theory"
+          ],
+          "sourcePath": "18. Segment Tree(lazy also included)/920F.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/18.%20Segment%20Tree%28lazy%20also%20included%29/920F.cpp",
+          "hasSolution": false
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Lazy propagation",
+      "problems": [
+        {
+          "id": "cp:19. Lazy propagation/1557D.cpp",
+          "code": "1557D",
+          "name": "Ezzat and Grid",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1557/D",
+          "rating": 2200,
+          "tags": [
+            "data structures",
+            "dp",
+            "greedy"
+          ],
+          "sourcePath": "19. Lazy propagation/1557D.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/19.%20Lazy%20propagation/1557D.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:19. Lazy propagation/52C.cpp",
+          "code": "52C",
+          "name": "Circular RMQ",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/52/C",
+          "rating": 2200,
+          "tags": [
+            "data structures"
+          ],
+          "sourcePath": "19. Lazy propagation/52C.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/19.%20Lazy%20propagation/52C.cpp",
+          "hasSolution": false
+        },
+        {
+          "id": "cp:19. Lazy propagation/777E.cpp",
+          "code": "777E",
+          "name": "Hanoi Factory",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/777/E",
+          "rating": 2000,
+          "tags": [
+            "brute force",
+            "data structures",
+            "dp",
+            "greedy",
+            "sortings"
+          ],
+          "sourcePath": "19. Lazy propagation/777E.cpp",
+          "sourceUrl": "https://github.com/arnavsharma2711/CP-Striver-Sheet/blob/99396aa0b31089c40a8946e0fa56fd902a285c8d/19.%20Lazy%20propagation/777E.cpp",
+          "hasSolution": false
+        }
+      ]
+    }
+  ]
+}

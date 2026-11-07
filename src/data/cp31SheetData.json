@@ -1,0 +1,4996 @@
+{
+  "repository": "https://www.tle-eliminators.com/cp-sheet",
+  "label": "TLE Eliminators CP-31",
+  "title": "CP-31 roadmap",
+  "sourceLabel": "TLE Eliminators \u00b7 curated by Priyansh Agarwal",
+  "topics": [
+    {
+      "id": "800",
+      "title": "800 rated",
+      "problems": [
+        {
+          "id": "cp31:1903A",
+          "code": "1903A",
+          "name": "Halloumi Boxes",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1903/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1901A",
+          "code": "1901A",
+          "name": "Line Trip",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1901/A",
+          "rating": 800,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1900A",
+          "code": "1900A",
+          "name": "Cover in Water",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1900/A",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1899A",
+          "code": "1899A",
+          "name": "Game with Integers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1899/A",
+          "rating": 800,
+          "tags": [
+            "games",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1896A",
+          "code": "1896A",
+          "name": "Jagged Swaps",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1896/A",
+          "rating": 800,
+          "tags": [
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1890A",
+          "code": "1890A",
+          "name": "Doremy's Paint 3",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1890/A",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms"
+          ]
+        },
+        {
+          "id": "cp31:1881A",
+          "code": "1881A",
+          "name": "Don't Try to Count",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1881/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1878A",
+          "code": "1878A",
+          "name": "How Much Does Daytona Cost?",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1878/A",
+          "rating": 800,
+          "tags": [
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1877A",
+          "code": "1877A",
+          "name": "Goals of Victory",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1877/A",
+          "rating": 800,
+          "tags": [
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1873C",
+          "code": "1873C",
+          "name": "Target Practice",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1873/C",
+          "rating": 800,
+          "tags": [
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1866A",
+          "code": "1866A",
+          "name": "Ambitious Kid",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1866/A",
+          "rating": 800,
+          "tags": [
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1862B",
+          "code": "1862B",
+          "name": "Sequence Game",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1862/B",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms"
+          ]
+        },
+        {
+          "id": "cp31:1859A",
+          "code": "1859A",
+          "name": "United We Stand",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1859/A",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1858A",
+          "code": "1858A",
+          "name": "Buttons",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1858/A",
+          "rating": 800,
+          "tags": [
+            "games",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1857A",
+          "code": "1857A",
+          "name": "Array Coloring",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1857/A",
+          "rating": 800,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1853A",
+          "code": "1853A",
+          "name": "Desorting",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1853/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1845A",
+          "code": "1845A",
+          "name": "Forbidden Integer",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1845/A",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1837A",
+          "code": "1837A",
+          "name": "Grasshopper on a Line",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1837/A",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1834A",
+          "code": "1834A",
+          "name": "Unit Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1834/A",
+          "rating": 800,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1831A",
+          "code": "1831A",
+          "name": "Twin Permutations",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1831/A",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms"
+          ]
+        },
+        {
+          "id": "cp31:1829B",
+          "code": "1829B",
+          "name": "Blank Space",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1829/B",
+          "rating": 800,
+          "tags": [
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1814A",
+          "code": "1814A",
+          "name": "Coins",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1814/A",
+          "rating": 800,
+          "tags": [
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1806A",
+          "code": "1806A",
+          "name": "Walking Master",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1806/A",
+          "rating": 800,
+          "tags": [
+            "geometry",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1805A",
+          "code": "1805A",
+          "name": "We Need the Zero",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1805/A",
+          "rating": 800,
+          "tags": [
+            "bitmasks",
+            "brute force"
+          ]
+        },
+        {
+          "id": "cp31:1791C",
+          "code": "1791C",
+          "name": "Prepend and Append",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1791/C",
+          "rating": 800,
+          "tags": [
+            "implementation",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1789A",
+          "code": "1789A",
+          "name": "Serval and Mocha's Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1789/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1788A",
+          "code": "1788A",
+          "name": "One and Two",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1788/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1783A",
+          "code": "1783A",
+          "name": "Make it Beautiful",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1783/A",
+          "rating": 800,
+          "tags": [
+            "constructive algorithms",
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1777A",
+          "code": "1777A",
+          "name": "Everybody Likes Good Arrays!",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1777/A",
+          "rating": 800,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1766A",
+          "code": "1766A",
+          "name": "Extremely Round",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1766/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1761A",
+          "code": "1761A",
+          "name": "Two Permutations",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1761/A",
+          "rating": 800,
+          "tags": [
+            "brute force",
+            "constructive algorithms"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "900",
+      "title": "900 rated",
+      "problems": [
+        {
+          "id": "cp31:1904A",
+          "code": "1904A",
+          "name": "Forked!",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1904/A",
+          "rating": 900,
+          "tags": [
+            "brute force",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1883B",
+          "code": "1883B",
+          "name": "Chemistry",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1883/B",
+          "rating": 900,
+          "tags": [
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1878C",
+          "code": "1878C",
+          "name": "Vasilije in Cacak",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1878/C",
+          "rating": 900,
+          "tags": [
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1875A",
+          "code": "1875A",
+          "name": "Jellyfish and Undertale",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1875/A",
+          "rating": 900,
+          "tags": [
+            "brute force",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1869A",
+          "code": "1869A",
+          "name": "Make It Zero",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1869/A",
+          "rating": 900,
+          "tags": [
+            "constructive algorithms"
+          ]
+        },
+        {
+          "id": "cp31:1855B",
+          "code": "1855B",
+          "name": "Longest Divisors Interval",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1855/B",
+          "rating": 900,
+          "tags": [
+            "brute force",
+            "combinatorics",
+            "greedy",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1850D",
+          "code": "1850D",
+          "name": "Balanced Round",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1850/D",
+          "rating": 900,
+          "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1837B",
+          "code": "1837B",
+          "name": "Comparison String",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1837/B",
+          "rating": 900,
+          "tags": [
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1828B",
+          "code": "1828B",
+          "name": "Permutation Swap",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1828/B",
+          "rating": 900,
+          "tags": [
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1807D",
+          "code": "1807D",
+          "name": "Odd Queries",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1807/D",
+          "rating": 900,
+          "tags": [
+            "data structures",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1794B",
+          "code": "1794B",
+          "name": "Not Dividing",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1794/B",
+          "rating": 900,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1726A",
+          "code": "1726A",
+          "name": "Mainak and Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1726/A",
+          "rating": 900,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1696B",
+          "code": "1696B",
+          "name": "NIT Destroys the Universe",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1696/B",
+          "rating": 900,
+          "tags": [
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1679A",
+          "code": "1679A",
+          "name": "AvtoBus",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1679/A",
+          "rating": 900,
+          "tags": [
+            "brute force",
+            "greedy",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1675B",
+          "code": "1675B",
+          "name": "Make It Increasing",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1675/B",
+          "rating": 900,
+          "tags": [
+            "greedy",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1666D",
+          "code": "1666D",
+          "name": "Deletive Editing",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1666/D",
+          "rating": 900,
+          "tags": [
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1665B",
+          "code": "1665B",
+          "name": "Array Cloning Technique",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1665/B",
+          "rating": 900,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1624B",
+          "code": "1624B",
+          "name": "Make AP",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1624/B",
+          "rating": 900,
+          "tags": [
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1607B",
+          "code": "1607B",
+          "name": "Odd Grasshopper",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1607/B",
+          "rating": 900,
+          "tags": [
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1606A",
+          "code": "1606A",
+          "name": "AB Balance",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1606/A",
+          "rating": 900,
+          "tags": [
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1593B",
+          "code": "1593B",
+          "name": "Make it Divisible by 25",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1593/B",
+          "rating": 900,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1582B",
+          "code": "1582B",
+          "name": "Luntik and Subsequences",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1582/B",
+          "rating": 900,
+          "tags": [
+            "combinatorics",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1559A",
+          "code": "1559A",
+          "name": "Mocha and Math",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1559/A",
+          "rating": 900,
+          "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1543A",
+          "code": "1543A",
+          "name": "Exciting Bets",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1543/A",
+          "rating": 900,
+          "tags": [
+            "greedy",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1537B",
+          "code": "1537B",
+          "name": "Bad Boy",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1537/B",
+          "rating": 900,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1475A",
+          "code": "1475A",
+          "name": "Odd Divisor",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1475/A",
+          "rating": 900,
+          "tags": [
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1471A",
+          "code": "1471A",
+          "name": "Strange Partition",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1471/A",
+          "rating": 900,
+          "tags": [
+            "greedy",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1440B",
+          "code": "1440B",
+          "name": "Sum of Medians",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1440/B",
+          "rating": 900,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1380A",
+          "code": "1380A",
+          "name": "Three Indices",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1380/A",
+          "rating": 900,
+          "tags": [
+            "brute force",
+            "data structures"
+          ]
+        },
+        {
+          "id": "cp31:1373B",
+          "code": "1373B",
+          "name": "01 Game",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1373/B",
+          "rating": 900,
+          "tags": [
+            "games"
+          ]
+        },
+        {
+          "id": "cp31:1374B",
+          "code": "1374B",
+          "name": "Multiply by 2, divide by 6",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1374/B",
+          "rating": 900,
+          "tags": [
+            "math"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1000",
+      "title": "1000 rated",
+      "problems": [
+        {
+          "id": "cp31:1913B",
+          "code": "1913B",
+          "name": "Swap and Delete",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1913/B",
+          "rating": 1000,
+          "tags": [
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1883C",
+          "code": "1883C",
+          "name": "Raspberries",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1883/C",
+          "rating": 1000,
+          "tags": [
+            "dp",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1876A",
+          "code": "1876A",
+          "name": "Helmets in Night Light",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1876/A",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1859B",
+          "code": "1859B",
+          "name": "Olya and Game with Arrays",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1859/B",
+          "rating": 1000,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1849B",
+          "code": "1849B",
+          "name": "Monsters",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1849/B",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1840C",
+          "code": "1840C",
+          "name": "Ski Resort",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1840/C",
+          "rating": 1000,
+          "tags": [
+            "combinatorics",
+            "math",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1831B",
+          "code": "1831B",
+          "name": "Array merging",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1831/B",
+          "rating": 1000,
+          "tags": [
+            "constructive algorithms",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1791D",
+          "code": "1791D",
+          "name": "Distinct Split",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1791/D",
+          "rating": 1000,
+          "tags": [
+            "brute force",
+            "greedy",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1765M",
+          "code": "1765M",
+          "name": "Minimum LCM",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1765/M",
+          "rating": 1000,
+          "tags": [
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1744C",
+          "code": "1744C",
+          "name": "Traffic Light",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1744/C",
+          "rating": 1000,
+          "tags": [
+            "binary search",
+            "implementation",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1725B",
+          "code": "1725B",
+          "name": "Basketball Together",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1725/B",
+          "rating": 1000,
+          "tags": [
+            "binary search",
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1715B",
+          "code": "1715B",
+          "name": "Beautiful Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1715/B",
+          "rating": 1000,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1704B",
+          "code": "1704B",
+          "name": "Luke is a Foodie",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1704/B",
+          "rating": 1000,
+          "tags": [
+            "brute force",
+            "greedy",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1691B",
+          "code": "1691B",
+          "name": "Shoe Shuffling",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1691/B",
+          "rating": 1000,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1690D",
+          "code": "1690D",
+          "name": "Black and White Stripe",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1690/D",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1659A",
+          "code": "1659A",
+          "name": "Red Versus Blue",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1659/A",
+          "rating": 1000,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1632B",
+          "code": "1632B",
+          "name": "Roof Construction",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1632/B",
+          "rating": 1000,
+          "tags": [
+            "bitmasks",
+            "constructive algorithms"
+          ]
+        },
+        {
+          "id": "cp31:1620B",
+          "code": "1620B",
+          "name": "Triangles on a Rectangle",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1620/B",
+          "rating": 1000,
+          "tags": [
+            "geometry",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1614B",
+          "code": "1614B",
+          "name": "Divan and a New Project",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1614/B",
+          "rating": 1000,
+          "tags": []
+        },
+        {
+          "id": "cp31:1567B",
+          "code": "1567B",
+          "name": "MEXor Mixup",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1567/B",
+          "rating": 1000,
+          "tags": [
+            "bitmasks",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1506C",
+          "code": "1506C",
+          "name": "Double-ended Strings",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1506/C",
+          "rating": 1000,
+          "tags": [
+            "brute force",
+            "implementation",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1485A",
+          "code": "1485A",
+          "name": "Add and Divide",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1485/A",
+          "rating": 1000,
+          "tags": [
+            "brute force",
+            "greedy",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1474B",
+          "code": "1474B",
+          "name": "Different Divisors",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1474/B",
+          "rating": 1000,
+          "tags": [
+            "binary search",
+            "constructive algorithms",
+            "greedy",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1447B",
+          "code": "1447B",
+          "name": "Numbers Box",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1447/B",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1438B",
+          "code": "1438B",
+          "name": "Valerii Against Everyone",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1438/B",
+          "rating": 1000,
+          "tags": [
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1418A",
+          "code": "1418A",
+          "name": "Buying Torches",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1418/A",
+          "rating": 1000,
+          "tags": [
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1411B",
+          "code": "1411B",
+          "name": "Fair Numbers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1411/B",
+          "rating": 1000,
+          "tags": [
+            "brute force",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1374C",
+          "code": "1374C",
+          "name": "Move Brackets",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1374/C",
+          "rating": 1000,
+          "tags": [
+            "greedy",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1362A",
+          "code": "1362A",
+          "name": "Johnny and Ancient Computer",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1362/A",
+          "rating": 1000,
+          "tags": [
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1312B",
+          "code": "1312B",
+          "name": "Bogosort",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1312/B",
+          "rating": 1000,
+          "tags": [
+            "constructive algorithms",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1155A",
+          "code": "1155A",
+          "name": "Reverse a Substring",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1155/A",
+          "rating": 1000,
+          "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1100",
+      "title": "1100 rated",
+      "problems": [
+        {
+          "id": "cp31:1917B",
+          "code": "1917B",
+          "name": "Erase First or Second Letter",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1917/B",
+          "rating": 1100,
+          "tags": [
+            "brute force",
+            "combinatorics",
+            "data structures",
+            "dp",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1914C",
+          "code": "1914C",
+          "name": "Quests",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1914/C",
+          "rating": 1100,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1904B",
+          "code": "1904B",
+          "name": "Collecting Game",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1904/B",
+          "rating": 1100,
+          "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1899C",
+          "code": "1899C",
+          "name": "Yarik and Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1899/C",
+          "rating": 1100,
+          "tags": [
+            "dp",
+            "greedy",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1899B",
+          "code": "1899B",
+          "name": "250 Thousand Tons of TNT",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1899/B",
+          "rating": 1100,
+          "tags": [
+            "brute force",
+            "implementation",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1891B",
+          "code": "1891B",
+          "name": "Deja Vu",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1891/B",
+          "rating": 1100,
+          "tags": [
+            "brute force",
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1873E",
+          "code": "1873E",
+          "name": "Building an Aquarium",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1873/E",
+          "rating": 1100,
+          "tags": [
+            "binary search",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1869B",
+          "code": "1869B",
+          "name": "2D Traveling",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1869/B",
+          "rating": 1100,
+          "tags": [
+            "geometry",
+            "math",
+            "shortest paths",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1850E",
+          "code": "1850E",
+          "name": "Cardboard for Pictures",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1850/E",
+          "rating": 1100,
+          "tags": [
+            "binary search",
+            "geometry",
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1842B",
+          "code": "1842B",
+          "name": "Tenzing and Books",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1842/B",
+          "rating": 1100,
+          "tags": [
+            "bitmasks",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1832B",
+          "code": "1832B",
+          "name": "Maximum Sum",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1832/B",
+          "rating": 1100,
+          "tags": [
+            "brute force",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1827A",
+          "code": "1827A",
+          "name": "Counting Orders",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1827/A",
+          "rating": 1100,
+          "tags": [
+            "combinatorics",
+            "math",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1826B",
+          "code": "1826B",
+          "name": "Lunatic Never Content",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1826/B",
+          "rating": 1100,
+          "tags": [
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1821B",
+          "code": "1821B",
+          "name": "Sort the Subarray",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1821/B",
+          "rating": 1100,
+          "tags": [
+            "brute force",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1820B",
+          "code": "1820B",
+          "name": "JoJo's Incredible Adventures",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1820/B",
+          "rating": 1100,
+          "tags": [
+            "math",
+            "strings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1807G2",
+          "code": "1807G2",
+          "name": "Subsequence Addition (Hard Version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1807/G2",
+          "rating": 1100,
+          "tags": [
+            "bitmasks",
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1797B",
+          "code": "1797B",
+          "name": "Li Hua and Pattern",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1797/B",
+          "rating": 1100,
+          "tags": [
+            "constructive algorithms",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1791G1",
+          "code": "1791G1",
+          "name": "Teleporters (Easy Version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1791/G1",
+          "rating": 1100,
+          "tags": [
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1791E",
+          "code": "1791E",
+          "name": "Negatives and Positives",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1791/E",
+          "rating": 1100,
+          "tags": [
+            "dp",
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1780B",
+          "code": "1780B",
+          "name": "GCD Partition",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1780/B",
+          "rating": 1100,
+          "tags": [
+            "brute force",
+            "greedy",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1742D",
+          "code": "1742D",
+          "name": "Coprime",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1742/D",
+          "rating": 1100,
+          "tags": [
+            "brute force",
+            "greedy",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1731B",
+          "code": "1731B",
+          "name": "Kill Demodogs",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1731/B",
+          "rating": 1100,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1708B",
+          "code": "1708B",
+          "name": "Difference of GCDs",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1708/B",
+          "rating": 1100,
+          "tags": [
+            "constructive algorithms",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1682B",
+          "code": "1682B",
+          "name": "AND Sorting",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1682/B",
+          "rating": 1100,
+          "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1673B",
+          "code": "1673B",
+          "name": "A Perfectly Balanced String?",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1673/B",
+          "rating": 1100,
+          "tags": [
+            "brute force",
+            "greedy",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1669F",
+          "code": "1669F",
+          "name": "Eating Candies",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1669/F",
+          "rating": 1100,
+          "tags": [
+            "binary search",
+            "data structures",
+            "greedy",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1656B",
+          "code": "1656B",
+          "name": "Subtract Operation",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1656/B",
+          "rating": 1100,
+          "tags": [
+            "data structures",
+            "greedy",
+            "math",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1631B",
+          "code": "1631B",
+          "name": "Fun with Even Subarrays",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1631/B",
+          "rating": 1100,
+          "tags": [
+            "dp",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1618C",
+          "code": "1618C",
+          "name": "Paint the Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1618/C",
+          "rating": 1100,
+          "tags": [
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1610B",
+          "code": "1610B",
+          "name": "Kalindrome Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1610/B",
+          "rating": 1100,
+          "tags": [
+            "greedy",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1511C",
+          "code": "1511C",
+          "name": "Yet Another Card Deck",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1511/C",
+          "rating": 1100,
+          "tags": [
+            "brute force",
+            "data structures",
+            "implementation",
+            "trees"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1200",
+      "title": "1200 rated",
+      "problems": [
+        {
+          "id": "cp31:1914D",
+          "code": "1914D",
+          "name": "Three Activities",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1914/D",
+          "rating": 1200,
+          "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1909B",
+          "code": "1909B",
+          "name": "Make Almost Equal With Mod",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1909/B",
+          "rating": 1200,
+          "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1872D",
+          "code": "1872D",
+          "name": "Plus Minus Permutation",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1872/D",
+          "rating": 1200,
+          "tags": [
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1857C",
+          "code": "1857C",
+          "name": "Assembly via Minimums",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1857/C",
+          "rating": 1200,
+          "tags": [
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1848B",
+          "code": "1848B",
+          "name": "Vika and the Bridge",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1848/B",
+          "rating": 1200,
+          "tags": [
+            "binary search",
+            "data structures",
+            "greedy",
+            "implementation",
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1832C",
+          "code": "1832C",
+          "name": "Contrast Value",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1832/C",
+          "rating": 1200,
+          "tags": [
+            "greedy",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1808B",
+          "code": "1808B",
+          "name": "Playing in a Casino",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1808/B",
+          "rating": 1200,
+          "tags": [
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1793C",
+          "code": "1793C",
+          "name": "Dora and Search",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1793/C",
+          "rating": 1200,
+          "tags": [
+            "constructive algorithms",
+            "data structures",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1790D",
+          "code": "1790D",
+          "name": "Matryoshkas",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1790/D",
+          "rating": 1200,
+          "tags": [
+            "data structures",
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1742E",
+          "code": "1742E",
+          "name": "Scuza",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1742/E",
+          "rating": 1200,
+          "tags": [
+            "binary search",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1734C",
+          "code": "1734C",
+          "name": "Removing Smallest Multiples",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1734/C",
+          "rating": 1200,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1729D",
+          "code": "1729D",
+          "name": "Friends and the Restaurant",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1729/D",
+          "rating": 1200,
+          "tags": [
+            "greedy",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1704C",
+          "code": "1704C",
+          "name": "Virus",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1704/C",
+          "rating": 1200,
+          "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1703E",
+          "code": "1703E",
+          "name": "Mirror Grid",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1703/E",
+          "rating": 1200,
+          "tags": [
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1692E",
+          "code": "1692E",
+          "name": "Binary Deque",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1692/E",
+          "rating": 1200,
+          "tags": [
+            "binary search",
+            "implementation",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1679B",
+          "code": "1679B",
+          "name": "Stone Age Problem",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1679/B",
+          "rating": 1200,
+          "tags": [
+            "data structures",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1671C",
+          "code": "1671C",
+          "name": "Dolce Vita",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1671/C",
+          "rating": 1200,
+          "tags": [
+            "binary search",
+            "brute force",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1635C",
+          "code": "1635C",
+          "name": "Differential Sorting",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1635/C",
+          "rating": 1200,
+          "tags": [
+            "constructive algorithms",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1594C",
+          "code": "1594C",
+          "name": "Make Them Equal",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1594/C",
+          "rating": 1200,
+          "tags": [
+            "brute force",
+            "greedy",
+            "math",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1582C",
+          "code": "1582C",
+          "name": "Grandma Capa Knits a Scarf",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1582/C",
+          "rating": 1200,
+          "tags": [
+            "brute force",
+            "data structures",
+            "greedy",
+            "strings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1541B",
+          "code": "1541B",
+          "name": "Pleasant Pairs",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1541/B",
+          "rating": 1200,
+          "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1539C",
+          "code": "1539C",
+          "name": "Stable Groups",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1539/C",
+          "rating": 1200,
+          "tags": [
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1536B",
+          "code": "1536B",
+          "name": "Prinzessin der Verurteilung",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1536/B",
+          "rating": 1200,
+          "tags": [
+            "brute force",
+            "constructive algorithms",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1527B1",
+          "code": "1527B1",
+          "name": "Palindrome Game (easy version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1527/B1",
+          "rating": 1200,
+          "tags": [
+            "constructive algorithms",
+            "games"
+          ]
+        },
+        {
+          "id": "cp31:1520D",
+          "code": "1520D",
+          "name": "Same Differences",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1520/D",
+          "rating": 1200,
+          "tags": [
+            "data structures",
+            "hashing",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1514B",
+          "code": "1514B",
+          "name": "AND 0, Sum Big",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1514/B",
+          "rating": 1200,
+          "tags": [
+            "bitmasks",
+            "combinatorics",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1504B",
+          "code": "1504B",
+          "name": "Flip the Bits",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1504/B",
+          "rating": 1200,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1497B",
+          "code": "1497B",
+          "name": "M-Arrays",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1497/B",
+          "rating": 1200,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1487B",
+          "code": "1487B",
+          "name": "Cat cycle",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1487/B",
+          "rating": 1200,
+          "tags": [
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1433D",
+          "code": "1433D",
+          "name": "Districts Connection",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1433/D",
+          "rating": 1200,
+          "tags": [
+            "constructive algorithms",
+            "dfs and similar"
+          ]
+        },
+        {
+          "id": "cp31:1420B",
+          "code": "1420B",
+          "name": "Rock and Lever",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1420/B",
+          "rating": 1200,
+          "tags": [
+            "bitmasks",
+            "math"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1300",
+      "title": "1300 rated",
+      "problems": [
+        {
+          "id": "cp31:1931D",
+          "code": "1931D",
+          "name": "Divisible Pairs",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1931/D",
+          "rating": 1300,
+          "tags": [
+            "combinatorics",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1927D",
+          "code": "1927D",
+          "name": "Find the Different Ones!",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1927/D",
+          "rating": 1300,
+          "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "dp",
+            "dsu",
+            "greedy",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1915E",
+          "code": "1915E",
+          "name": "Romantic Glasses",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1915/E",
+          "rating": 1300,
+          "tags": [
+            "data structures",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1881D",
+          "code": "1881D",
+          "name": "Divide and Equalize",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1881/D",
+          "rating": 1300,
+          "tags": [
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1879C",
+          "code": "1879C",
+          "name": "Make it Alternating",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1879/C",
+          "rating": 1300,
+          "tags": [
+            "combinatorics",
+            "dp",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1857D",
+          "code": "1857D",
+          "name": "Strong Vertices",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1857/D",
+          "rating": 1300,
+          "tags": [
+            "math",
+            "sortings",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1846E1",
+          "code": "1846E1",
+          "name": "Rudolf and Snowflakes (simple version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1846/E1",
+          "rating": 1300,
+          "tags": [
+            "brute force",
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1794C",
+          "code": "1794C",
+          "name": "Scoring Subsequences",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1794/C",
+          "rating": 1300,
+          "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1775B",
+          "code": "1775B",
+          "name": "Gardener and the Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1775/B",
+          "rating": 1300,
+          "tags": [
+            "bitmasks",
+            "constructive algorithms"
+          ]
+        },
+        {
+          "id": "cp31:1703F",
+          "code": "1703F",
+          "name": "Yet Another Problem About Pairs Satisfying an Inequality",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1703/F",
+          "rating": 1300,
+          "tags": [
+            "binary search",
+            "data structures",
+            "dp",
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1676G",
+          "code": "1676G",
+          "name": "White-Black Balanced Subtrees",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1676/G",
+          "rating": 1300,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1669H",
+          "code": "1669H",
+          "name": "Maximal AND",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1669/H",
+          "rating": 1300,
+          "tags": [
+            "bitmasks",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1612C",
+          "code": "1612C",
+          "name": "Chat Ban",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1612/C",
+          "rating": 1300,
+          "tags": [
+            "binary search",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1601A",
+          "code": "1601A",
+          "name": "Array Elimination",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1601/A",
+          "rating": 1300,
+          "tags": [
+            "bitmasks",
+            "greedy",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1561C",
+          "code": "1561C",
+          "name": "Deep Down Below",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1561/C",
+          "rating": 1300,
+          "tags": [
+            "binary search",
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1498B",
+          "code": "1498B",
+          "name": "Box Fitting",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1498/B",
+          "rating": 1300,
+          "tags": [
+            "binary search",
+            "bitmasks",
+            "data structures",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1470A",
+          "code": "1470A",
+          "name": "Strange Birthday Party",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1470/A",
+          "rating": 1300,
+          "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1459B",
+          "code": "1459B",
+          "name": "Move and Turn",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1459/B",
+          "rating": 1300,
+          "tags": [
+            "dp",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1372B",
+          "code": "1372B",
+          "name": "Omkar and Last Class of Math",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1372/B",
+          "rating": 1300,
+          "tags": [
+            "greedy",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1366B",
+          "code": "1366B",
+          "name": "Shuffle",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1366/B",
+          "rating": 1300,
+          "tags": [
+            "math",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1364B",
+          "code": "1364B",
+          "name": "Most socially-distanced subsequence",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1364/B",
+          "rating": 1300,
+          "tags": [
+            "greedy",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1360D",
+          "code": "1360D",
+          "name": "Buying Shovels",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1360/D",
+          "rating": 1300,
+          "tags": [
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1294C",
+          "code": "1294C",
+          "name": "Product of three numbers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1294/C",
+          "rating": 1300,
+          "tags": [
+            "greedy",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1285B",
+          "code": "1285B",
+          "name": "Just Eat It!",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1285/B",
+          "rating": 1300,
+          "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1237B",
+          "code": "1237B",
+          "name": "Balanced Tunnel",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1237/B",
+          "rating": 1300,
+          "tags": [
+            "data structures",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1178B",
+          "code": "1178B",
+          "name": "WOW Factor",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1178/B",
+          "rating": 1300,
+          "tags": [
+            "dp",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1119B",
+          "code": "1119B",
+          "name": "Alyona and a Narrow Fridge",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1119/B",
+          "rating": 1300,
+          "tags": [
+            "binary search",
+            "flows",
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1077C",
+          "code": "1077C",
+          "name": "Good Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1077/C",
+          "rating": 1300,
+          "tags": []
+        },
+        {
+          "id": "cp31:862B",
+          "code": "862B",
+          "name": "Mahmoud and Ehab and the bipartiteness",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/862/B",
+          "rating": 1300,
+          "tags": [
+            "dfs and similar",
+            "graphs",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:808B",
+          "code": "808B",
+          "name": "Average Sleep Time",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/808/B",
+          "rating": 1300,
+          "tags": [
+            "data structures",
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:665C",
+          "code": "665C",
+          "name": "Simple Strings",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/665/C",
+          "rating": 1300,
+          "tags": [
+            "dp",
+            "greedy",
+            "strings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1400",
+      "title": "1400 rated",
+      "problems": [
+        {
+          "id": "cp31:1931E",
+          "code": "1931E",
+          "name": "Anna and the Valentine's Day Gift",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1931/E",
+          "rating": 1400,
+          "tags": [
+            "games",
+            "greedy",
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1919C",
+          "code": "1919C",
+          "name": "Grouping Increases",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1919/C",
+          "rating": 1400,
+          "tags": [
+            "data structures",
+            "dp",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1907D",
+          "code": "1907D",
+          "name": "Jumping Through Segments",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1907/D",
+          "rating": 1400,
+          "tags": [
+            "binary search",
+            "constructive algorithms"
+          ]
+        },
+        {
+          "id": "cp31:1904C",
+          "code": "1904C",
+          "name": "Array Game",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1904/C",
+          "rating": 1400,
+          "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1883G1",
+          "code": "1883G1",
+          "name": "Dances (Easy version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1883/G1",
+          "rating": 1400,
+          "tags": [
+            "binary search",
+            "greedy",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1878E",
+          "code": "1878E",
+          "name": "Iva & Pav",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1878/E",
+          "rating": 1400,
+          "tags": [
+            "binary search",
+            "bitmasks",
+            "data structures",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1837D",
+          "code": "1837D",
+          "name": "Bracket Coloring",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1837/D",
+          "rating": 1400,
+          "tags": [
+            "constructive algorithms",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1830A",
+          "code": "1830A",
+          "name": "Copil Copac Draws Trees",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1830/A",
+          "rating": 1400,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1771B",
+          "code": "1771B",
+          "name": "Hossam and Friends",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1771/B",
+          "rating": 1400,
+          "tags": [
+            "binary search",
+            "constructive algorithms",
+            "dp",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1759D",
+          "code": "1759D",
+          "name": "Make It Round",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1759/D",
+          "rating": 1400,
+          "tags": [
+            "brute force",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1714E",
+          "code": "1714E",
+          "name": "Add Modulo 10",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1714/E",
+          "rating": 1400,
+          "tags": [
+            "brute force",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1701C",
+          "code": "1701C",
+          "name": "Schedule Management",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1701/C",
+          "rating": 1400,
+          "tags": [
+            "binary search",
+            "greedy",
+            "implementation",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1692G",
+          "code": "1692G",
+          "name": "2^Sort",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1692/G",
+          "rating": 1400,
+          "tags": [
+            "data structures",
+            "dp",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1648A",
+          "code": "1648A",
+          "name": "Weird Sum",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1648/A",
+          "rating": 1400,
+          "tags": [
+            "combinatorics",
+            "data structures",
+            "geometry",
+            "math",
+            "matrices",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1634B",
+          "code": "1634B",
+          "name": "Fortune Telling",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1634/B",
+          "rating": 1400,
+          "tags": [
+            "bitmasks",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1520E",
+          "code": "1520E",
+          "name": "Arranging The Sheep",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1520/E",
+          "rating": 1400,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1519C",
+          "code": "1519C",
+          "name": "Berland Regional",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1519/C",
+          "rating": 1400,
+          "tags": [
+            "brute force",
+            "data structures",
+            "greedy",
+            "number theory",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1513B",
+          "code": "1513B",
+          "name": "AND Sequences",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1513/B",
+          "rating": 1400,
+          "tags": [
+            "bitmasks",
+            "combinatorics",
+            "constructive algorithms",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1475C",
+          "code": "1475C",
+          "name": "Ball in Berland",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1475/C",
+          "rating": 1400,
+          "tags": [
+            "combinatorics",
+            "graphs",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1374D",
+          "code": "1374D",
+          "name": "Zero Remainder Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1374/D",
+          "rating": 1400,
+          "tags": [
+            "math",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1362C",
+          "code": "1362C",
+          "name": "Johnny and Another Rating Drop",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1362/C",
+          "rating": 1400,
+          "tags": [
+            "bitmasks",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1350B",
+          "code": "1350B",
+          "name": "Orac and Models",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1350/B",
+          "rating": 1400,
+          "tags": [
+            "dp",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1320A",
+          "code": "1320A",
+          "name": "Journey Planning",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1320/A",
+          "rating": 1400,
+          "tags": [
+            "data structures",
+            "dp",
+            "greedy",
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1215B",
+          "code": "1215B",
+          "name": "The Number of Products",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1215/B",
+          "rating": 1400,
+          "tags": [
+            "combinatorics",
+            "dp",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1195C",
+          "code": "1195C",
+          "name": "Basketball Exercise",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1195/C",
+          "rating": 1400,
+          "tags": [
+            "dp"
+          ]
+        },
+        {
+          "id": "cp31:1183D",
+          "code": "1183D",
+          "name": "Candy Box (easy version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1183/D",
+          "rating": 1400,
+          "tags": [
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1167C",
+          "code": "1167C",
+          "name": "News Distribution",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1167/C",
+          "rating": 1400,
+          "tags": [
+            "dfs and similar",
+            "dsu",
+            "graphs"
+          ]
+        },
+        {
+          "id": "cp31:1167B",
+          "code": "1167B",
+          "name": "Lost Numbers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1167/B",
+          "rating": 1400,
+          "tags": [
+            "brute force",
+            "divide and conquer",
+            "interactive",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1143C",
+          "code": "1143C",
+          "name": "Queen",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1143/C",
+          "rating": 1400,
+          "tags": [
+            "dfs and similar",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1110B",
+          "code": "1110B",
+          "name": "Tape",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1110/B",
+          "rating": 1400,
+          "tags": [
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:414B",
+          "code": "414B",
+          "name": "Mashmokh and ACM",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/414/B",
+          "rating": 1400,
+          "tags": [
+            "combinatorics",
+            "dp",
+            "number theory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1500",
+      "title": "1500 rated",
+      "problems": [
+        {
+          "id": "cp31:1915F",
+          "code": "1915F",
+          "name": "Greetings",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1915/F",
+          "rating": 1500,
+          "tags": [
+            "data structures",
+            "divide and conquer",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1891C",
+          "code": "1891C",
+          "name": "Smilo and Monsters",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1891/C",
+          "rating": 1500,
+          "tags": [
+            "binary search",
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1881E",
+          "code": "1881E",
+          "name": "Block Sequence",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1881/E",
+          "rating": 1500,
+          "tags": [
+            "dp"
+          ]
+        },
+        {
+          "id": "cp31:1872E",
+          "code": "1872E",
+          "name": "Data Structures Fan",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1872/E",
+          "rating": 1500,
+          "tags": [
+            "binary search",
+            "bitmasks",
+            "data structures",
+            "dp"
+          ]
+        },
+        {
+          "id": "cp31:1795C",
+          "code": "1795C",
+          "name": "Tea Tasting",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1795/C",
+          "rating": 1500,
+          "tags": [
+            "binary search",
+            "data structures",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1776L",
+          "code": "1776L",
+          "name": "Controllers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1776/L",
+          "rating": 1500,
+          "tags": [
+            "binary search",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1673C",
+          "code": "1673C",
+          "name": "Palindrome Basis",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1673/C",
+          "rating": 1500,
+          "tags": [
+            "brute force",
+            "dp",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1659C",
+          "code": "1659C",
+          "name": "Line Empire",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1659/C",
+          "rating": 1500,
+          "tags": [
+            "binary search",
+            "brute force",
+            "dp",
+            "greedy",
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1646C",
+          "code": "1646C",
+          "name": "Factorials and Powers of Two",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1646/C",
+          "rating": 1500,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dp",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1516B",
+          "code": "1516B",
+          "name": "AGAGA XOOORRR",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1516/B",
+          "rating": 1500,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "dp",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1486B",
+          "code": "1486B",
+          "name": "Eastern Exhibition",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1486/B",
+          "rating": 1500,
+          "tags": [
+            "binary search",
+            "geometry",
+            "shortest paths",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1466D",
+          "code": "1466D",
+          "name": "13th Labour of Heracles",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1466/D",
+          "rating": 1500,
+          "tags": [
+            "data structures",
+            "greedy",
+            "sortings",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1418C",
+          "code": "1418C",
+          "name": "Mortal Kombat Tower",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1418/C",
+          "rating": 1500,
+          "tags": [
+            "dp",
+            "graphs",
+            "greedy",
+            "shortest paths"
+          ]
+        },
+        {
+          "id": "cp31:1416A",
+          "code": "1416A",
+          "name": "k-Amazing Numbers",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1416/A",
+          "rating": 1500,
+          "tags": [
+            "binary search",
+            "data structures",
+            "implementation",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1404A",
+          "code": "1404A",
+          "name": "Balanced Bitstring",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1404/A",
+          "rating": 1500,
+          "tags": [
+            "implementation",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1338A",
+          "code": "1338A",
+          "name": "Powered Addition",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1338/A",
+          "rating": 1500,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1332C",
+          "code": "1332C",
+          "name": "K-Complete Word",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1332/C",
+          "rating": 1500,
+          "tags": [
+            "dfs and similar",
+            "dsu",
+            "greedy",
+            "implementation",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1325C",
+          "code": "1325C",
+          "name": "Ehab and Path-etic MEXs",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1325/C",
+          "rating": 1500,
+          "tags": [
+            "constructive algorithms",
+            "dfs and similar",
+            "greedy",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1323B",
+          "code": "1323B",
+          "name": "Count Subrectangles",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1323/B",
+          "rating": 1500,
+          "tags": [
+            "binary search",
+            "greedy",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1201B",
+          "code": "1201B",
+          "name": "Zero Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1201/B",
+          "rating": 1500,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1139C",
+          "code": "1139C",
+          "name": "Edgy Trees",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1139/C",
+          "rating": 1500,
+          "tags": [
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "math",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1133D",
+          "code": "1133D",
+          "name": "Zero Quantity Maximization",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1133/D",
+          "rating": 1500,
+          "tags": [
+            "hashing",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1106D",
+          "code": "1106D",
+          "name": "Lunar New Year and a Wander",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1106/D",
+          "rating": 1500,
+          "tags": [
+            "data structures",
+            "dfs and similar",
+            "graphs",
+            "greedy",
+            "shortest paths"
+          ]
+        },
+        {
+          "id": "cp31:1101C",
+          "code": "1101C",
+          "name": "Division and Union",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1101/C",
+          "rating": 1500,
+          "tags": [
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1084C",
+          "code": "1084C",
+          "name": "The Fair Nut and String",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1084/C",
+          "rating": 1500,
+          "tags": [
+            "combinatorics",
+            "dp",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:982C",
+          "code": "982C",
+          "name": "Cut 'em all!",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/982/C",
+          "rating": 1500,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "greedy",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:976C",
+          "code": "976C",
+          "name": "Nested Segments",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/976/C",
+          "rating": 1500,
+          "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:960B",
+          "code": "960B",
+          "name": "Minimize the error",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/960/B",
+          "rating": 1500,
+          "tags": [
+            "data structures",
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:891A",
+          "code": "891A",
+          "name": "Pride",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/891/A",
+          "rating": 1500,
+          "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:845C",
+          "code": "845C",
+          "name": "Two TVs",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/845/C",
+          "rating": 1500,
+          "tags": [
+            "data structures",
+            "greedy",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:276C",
+          "code": "276C",
+          "name": "Little Girl and Maximum Sum",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/276/C",
+          "rating": 1500,
+          "tags": [
+            "data structures",
+            "greedy",
+            "implementation",
+            "sortings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1600",
+      "title": "1600 rated",
+      "problems": [
+        {
+          "id": "cp31:1920C",
+          "code": "1920C",
+          "name": "Partitioning the Array",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1920/C",
+          "rating": 1600,
+          "tags": [
+            "brute force",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1907E",
+          "code": "1907E",
+          "name": "Good Triples",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1907/E",
+          "rating": 1600,
+          "tags": [
+            "brute force",
+            "combinatorics",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1886C",
+          "code": "1886C",
+          "name": "Decreasing String",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1886/C",
+          "rating": 1600,
+          "tags": [
+            "implementation",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1856C",
+          "code": "1856C",
+          "name": "To Become Max",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1856/C",
+          "rating": 1600,
+          "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "dp"
+          ]
+        },
+        {
+          "id": "cp31:1843E",
+          "code": "1843E",
+          "name": "Tracking Segments",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1843/E",
+          "rating": 1600,
+          "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1833E",
+          "code": "1833E",
+          "name": "Round Dance",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1833/E",
+          "rating": 1600,
+          "tags": [
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "shortest paths"
+          ]
+        },
+        {
+          "id": "cp31:1829G",
+          "code": "1829G",
+          "name": "Hits Different",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1829/G",
+          "rating": 1600,
+          "tags": [
+            "data structures",
+            "dp",
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1798D",
+          "code": "1798D",
+          "name": "Shocking Arrangement",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1798/D",
+          "rating": 1600,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1795D",
+          "code": "1795D",
+          "name": "Triangle Coloring",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1795/D",
+          "rating": 1600,
+          "tags": [
+            "combinatorics",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1781C",
+          "code": "1781C",
+          "name": "Equal Frequencies",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1781/C",
+          "rating": 1600,
+          "tags": [
+            "brute force",
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1778C",
+          "code": "1778C",
+          "name": "Flexible String",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1778/C",
+          "rating": 1600,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1775C",
+          "code": "1775C",
+          "name": "Interesting Sequence",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1775/C",
+          "rating": 1600,
+          "tags": [
+            "bitmasks",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1741E",
+          "code": "1741E",
+          "name": "Sending a Sequence Over the Network",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1741/E",
+          "rating": 1600,
+          "tags": [
+            "dp"
+          ]
+        },
+        {
+          "id": "cp31:1730B",
+          "code": "1730B",
+          "name": "Meeting on the Line",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1730/B",
+          "rating": 1600,
+          "tags": [
+            "binary search",
+            "geometry",
+            "greedy",
+            "implementation",
+            "math",
+            "ternary search"
+          ]
+        },
+        {
+          "id": "cp31:1702E",
+          "code": "1702E",
+          "name": "Split Into Two Sets",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1702/E",
+          "rating": 1600,
+          "tags": [
+            "dfs and similar",
+            "dsu",
+            "graphs"
+          ]
+        },
+        {
+          "id": "cp31:1698D",
+          "code": "1698D",
+          "name": "Fixed Point Guessing",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1698/D",
+          "rating": 1600,
+          "tags": [
+            "binary search",
+            "constructive algorithms",
+            "interactive"
+          ]
+        },
+        {
+          "id": "cp31:1660D",
+          "code": "1660D",
+          "name": "Maximum Product Strikes Back",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1660/D",
+          "rating": 1600,
+          "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1633D",
+          "code": "1633D",
+          "name": "Make them Equal",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1633/D",
+          "rating": 1600,
+          "tags": [
+            "dp",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1610C",
+          "code": "1610C",
+          "name": "Keshi Is Throwing a Party",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1610/C",
+          "rating": 1600,
+          "tags": [
+            "binary search",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1555D",
+          "code": "1555D",
+          "name": "Say No to Palindromes",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1555/D",
+          "rating": 1600,
+          "tags": [
+            "brute force",
+            "constructive algorithms",
+            "dp",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1537E1",
+          "code": "1537E1",
+          "name": "Erase and Extend (Easy Version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1537/E1",
+          "rating": 1600,
+          "tags": [
+            "binary search",
+            "brute force",
+            "dp",
+            "greedy",
+            "hashing",
+            "implementation",
+            "string suffix structures",
+            "strings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1528A",
+          "code": "1528A",
+          "name": "Parsa's Humongous Tree",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1528/A",
+          "rating": 1600,
+          "tags": [
+            "dfs and similar",
+            "divide and conquer",
+            "dp",
+            "greedy",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1498C",
+          "code": "1498C",
+          "name": "Planar Reflections",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1498/C",
+          "rating": 1600,
+          "tags": [
+            "brute force",
+            "data structures",
+            "dp"
+          ]
+        },
+        {
+          "id": "cp31:1475E",
+          "code": "1475E",
+          "name": "Advertising Agency",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1475/E",
+          "rating": 1600,
+          "tags": [
+            "combinatorics",
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1458A",
+          "code": "1458A",
+          "name": "Row GCD",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1458/A",
+          "rating": 1600,
+          "tags": [
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1407C",
+          "code": "1407C",
+          "name": "Chocolate Bunny",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1407/C",
+          "rating": 1600,
+          "tags": [
+            "constructive algorithms",
+            "interactive",
+            "math",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1398C",
+          "code": "1398C",
+          "name": "Good Subarrays",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1398/C",
+          "rating": 1600,
+          "tags": [
+            "data structures",
+            "dp",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1389B",
+          "code": "1389B",
+          "name": "Array Walk",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1389/B",
+          "rating": 1600,
+          "tags": [
+            "brute force",
+            "dp",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1349A",
+          "code": "1349A",
+          "name": "Orac and LCM",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1349/A",
+          "rating": 1600,
+          "tags": [
+            "data structures",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1336A",
+          "code": "1336A",
+          "name": "Linova and Kingdom",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1336/A",
+          "rating": 1600,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "greedy",
+            "sortings",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1305C",
+          "code": "1305C",
+          "name": "Kuroni and Impossible Calculation",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1305/C",
+          "rating": 1600,
+          "tags": [
+            "brute force",
+            "combinatorics",
+            "math",
+            "number theory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1700",
+      "title": "1700 rated",
+      "problems": [
+        {
+          "id": "cp31:2050F",
+          "code": "2050F",
+          "name": "Maximum modulo equality",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2050/F",
+          "rating": 1700,
+          "tags": [
+            "data structures",
+            "divide and conquer",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:2041D",
+          "code": "2041D",
+          "name": "Drunken Maze",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2041/D",
+          "rating": 1700,
+          "tags": [
+            "brute force",
+            "dfs and similar",
+            "graphs",
+            "shortest paths"
+          ]
+        },
+        {
+          "id": "cp31:2018C",
+          "code": "2018C",
+          "name": "Tree Pruning",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2018/C",
+          "rating": 1700,
+          "tags": [
+            "brute force",
+            "dfs and similar",
+            "greedy",
+            "sortings",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:2006A",
+          "code": "2006A",
+          "name": "Iris and Game on the Tree",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2006/A",
+          "rating": 1700,
+          "tags": [
+            "constructive algorithms",
+            "dfs and similar",
+            "games",
+            "graphs",
+            "greedy",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1999G2",
+          "code": "1999G2",
+          "name": "Ruler (hard version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1999/G2",
+          "rating": 1700,
+          "tags": [
+            "binary search",
+            "interactive",
+            "ternary search"
+          ]
+        },
+        {
+          "id": "cp31:1983D",
+          "code": "1983D",
+          "name": "Swap Dilemma",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1983/D",
+          "rating": 1700,
+          "tags": [
+            "constructive algorithms",
+            "data structures",
+            "divide and conquer",
+            "greedy",
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1982D",
+          "code": "1982D",
+          "name": "Beauty of the mountains",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1982/D",
+          "rating": 1700,
+          "tags": [
+            "brute force",
+            "data structures",
+            "implementation",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1948D",
+          "code": "1948D",
+          "name": "Tandem Repeats?",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1948/D",
+          "rating": 1700,
+          "tags": [
+            "brute force",
+            "strings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1931F",
+          "code": "1931F",
+          "name": "Chat Screenshots",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1931/F",
+          "rating": 1700,
+          "tags": [
+            "combinatorics",
+            "dfs and similar",
+            "graphs"
+          ]
+        },
+        {
+          "id": "cp31:1893B",
+          "code": "1893B",
+          "name": "Neutral Tonality",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1893/B",
+          "rating": 1700,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1879D",
+          "code": "1879D",
+          "name": "Sum of XOR Functions",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1879/D",
+          "rating": 1700,
+          "tags": [
+            "bitmasks",
+            "combinatorics",
+            "divide and conquer",
+            "dp",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1833F",
+          "code": "1833F",
+          "name": "Ira and Flamenco",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1833/F",
+          "rating": 1700,
+          "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "data structures",
+            "implementation",
+            "math",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1829H",
+          "code": "1829H",
+          "name": "Don't Blame Me",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1829/H",
+          "rating": 1700,
+          "tags": [
+            "bitmasks",
+            "combinatorics",
+            "dp",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1826D",
+          "code": "1826D",
+          "name": "Running Miles",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1826/D",
+          "rating": 1700,
+          "tags": [
+            "brute force",
+            "dp",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1822G1",
+          "code": "1822G1",
+          "name": "Magic Triples (Easy Version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1822/G1",
+          "rating": 1700,
+          "tags": [
+            "brute force",
+            "data structures",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1792D",
+          "code": "1792D",
+          "name": "Fixed Prefix Permutations",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1792/D",
+          "rating": 1700,
+          "tags": [
+            "binary search",
+            "bitmasks",
+            "data structures",
+            "hashing",
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1777C",
+          "code": "1777C",
+          "name": "Quiz Master",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1777/C",
+          "rating": 1700,
+          "tags": [
+            "binary search",
+            "math",
+            "number theory",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1760G",
+          "code": "1760G",
+          "name": "SlavicG's Favorite Problem",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1760/G",
+          "rating": 1700,
+          "tags": [
+            "bitmasks",
+            "dfs and similar",
+            "graphs"
+          ]
+        },
+        {
+          "id": "cp31:1735D",
+          "code": "1735D",
+          "name": "Meta-set",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1735/D",
+          "rating": 1700,
+          "tags": [
+            "brute force",
+            "combinatorics",
+            "data structures",
+            "hashing",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1731C",
+          "code": "1731C",
+          "name": "Even Subarrays",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1731/C",
+          "rating": 1700,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "hashing",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1715C",
+          "code": "1715C",
+          "name": "Monoblock",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1715/C",
+          "rating": 1700,
+          "tags": [
+            "combinatorics",
+            "data structures",
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1709D",
+          "code": "1709D",
+          "name": "Rorororobot",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1709/D",
+          "rating": 1700,
+          "tags": [
+            "binary search",
+            "data structures",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1695C",
+          "code": "1695C",
+          "name": "Zero Path",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1695/C",
+          "rating": 1700,
+          "tags": [
+            "brute force",
+            "data structures",
+            "dp",
+            "graphs",
+            "greedy",
+            "shortest paths"
+          ]
+        },
+        {
+          "id": "cp31:1692H",
+          "code": "1692H",
+          "name": "Gambling",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1692/H",
+          "rating": 1700,
+          "tags": [
+            "data structures",
+            "dp",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1690F",
+          "code": "1690F",
+          "name": "Shifting String",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1690/F",
+          "rating": 1700,
+          "tags": [
+            "graphs",
+            "math",
+            "number theory",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1625C",
+          "code": "1625C",
+          "name": "Road Optimization",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1625/C",
+          "rating": 1700,
+          "tags": [
+            "dp"
+          ]
+        },
+        {
+          "id": "cp31:1598D",
+          "code": "1598D",
+          "name": "Training Session",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1598/D",
+          "rating": 1700,
+          "tags": [
+            "combinatorics",
+            "data structures",
+            "geometry",
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1594D",
+          "code": "1594D",
+          "name": "The Number of Imposters",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1594/D",
+          "rating": 1700,
+          "tags": [
+            "constructive algorithms",
+            "dfs and similar",
+            "dp",
+            "dsu",
+            "graphs"
+          ]
+        },
+        {
+          "id": "cp31:1557C",
+          "code": "1557C",
+          "name": "Moamen and XOR",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1557/C",
+          "rating": 1700,
+          "tags": [
+            "bitmasks",
+            "combinatorics",
+            "dp",
+            "math",
+            "matrices"
+          ]
+        },
+        {
+          "id": "cp31:1528B",
+          "code": "1528B",
+          "name": "Kavi on Pairing Duty",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1528/B",
+          "rating": 1700,
+          "tags": [
+            "combinatorics",
+            "dp",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1516C",
+          "code": "1516C",
+          "name": "Baby Ehab Partitions Again",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1516/C",
+          "rating": 1700,
+          "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "dp",
+            "math"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1800",
+      "title": "1800 rated",
+      "problems": [
+        {
+          "id": "cp31:2022C",
+          "code": "2022C",
+          "name": "Gerrymandering",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2022/C",
+          "rating": 1800,
+          "tags": [
+            "dp",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:2014E",
+          "code": "2014E",
+          "name": "Rendez-vous de Marian et Robin",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2014/E",
+          "rating": 1800,
+          "tags": [
+            "dfs and similar",
+            "graphs",
+            "shortest paths"
+          ]
+        },
+        {
+          "id": "cp31:1974E",
+          "code": "1974E",
+          "name": "Money Buys Happiness",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1974/E",
+          "rating": 1800,
+          "tags": [
+            "dp"
+          ]
+        },
+        {
+          "id": "cp31:1935D",
+          "code": "1935D",
+          "name": "Exam in MAC",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1935/D",
+          "rating": 1800,
+          "tags": [
+            "binary search",
+            "combinatorics",
+            "implementation",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1915G",
+          "code": "1915G",
+          "name": "Bicycles",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1915/G",
+          "rating": 1800,
+          "tags": [
+            "graphs",
+            "greedy",
+            "implementation",
+            "shortest paths",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1912K",
+          "code": "1912K",
+          "name": "Kim's Quest",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1912/K",
+          "rating": 1800,
+          "tags": [
+            "bitmasks",
+            "combinatorics",
+            "dp"
+          ]
+        },
+        {
+          "id": "cp31:1824B1",
+          "code": "1824B1",
+          "name": "LuoTianyi and the Floating Islands (Easy Version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1824/B1",
+          "rating": 1800,
+          "tags": [
+            "combinatorics",
+            "math",
+            "probabilities",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1805D",
+          "code": "1805D",
+          "name": "A Wide, Wide Graph",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1805/D",
+          "rating": 1800,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "greedy",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1775D",
+          "code": "1775D",
+          "name": "Friendly Spiders",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1775/D",
+          "rating": 1800,
+          "tags": [
+            "dfs and similar",
+            "graphs",
+            "math",
+            "number theory",
+            "shortest paths"
+          ]
+        },
+        {
+          "id": "cp31:1768D",
+          "code": "1768D",
+          "name": "Lucky Permutation",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1768/D",
+          "rating": 1800,
+          "tags": [
+            "constructive algorithms",
+            "dfs and similar",
+            "graphs",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1732C1",
+          "code": "1732C1",
+          "name": "Sheikh (Easy version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1732/C1",
+          "rating": 1800,
+          "tags": [
+            "binary search",
+            "bitmasks",
+            "greedy",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1725M",
+          "code": "1725M",
+          "name": "Moving Both Hands",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1725/M",
+          "rating": 1800,
+          "tags": [
+            "dp",
+            "graphs",
+            "shortest paths"
+          ]
+        },
+        {
+          "id": "cp31:1709C",
+          "code": "1709C",
+          "name": "Recover an RBS",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1709/C",
+          "rating": 1800,
+          "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1691D",
+          "code": "1691D",
+          "name": "Max GEQ Sum",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1691/D",
+          "rating": 1800,
+          "tags": [
+            "binary search",
+            "constructive algorithms",
+            "data structures",
+            "divide and conquer",
+            "implementation",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1517D",
+          "code": "1517D",
+          "name": "Explorer Space",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1517/D",
+          "rating": 1800,
+          "tags": [
+            "dp",
+            "graphs",
+            "shortest paths"
+          ]
+        },
+        {
+          "id": "cp31:1509C",
+          "code": "1509C",
+          "name": "The Sports Festival",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1509/C",
+          "rating": 1800,
+          "tags": [
+            "dp",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1491D",
+          "code": "1491D",
+          "name": "Zookeeper and The Infinite Zoo",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1491/D",
+          "rating": 1800,
+          "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "dp",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1468J",
+          "code": "1468J",
+          "name": "Road Reform",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1468/J",
+          "rating": 1800,
+          "tags": [
+            "dsu",
+            "graphs",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1466E",
+          "code": "1466E",
+          "name": "Apollo versus Pan",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1466/E",
+          "rating": 1800,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1462F",
+          "code": "1462F",
+          "name": "The Treasure of The Segments",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1462/F",
+          "rating": 1800,
+          "tags": [
+            "binary search",
+            "data structures",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1446B",
+          "code": "1446B",
+          "name": "Catching Cheaters",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1446/B",
+          "rating": 1800,
+          "tags": [
+            "dp",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1442B",
+          "code": "1442B",
+          "name": "Identify the Operations",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1442/B",
+          "rating": 1800,
+          "tags": [
+            "combinatorics",
+            "data structures",
+            "dsu",
+            "greedy",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1437C",
+          "code": "1437C",
+          "name": "Chef Monocarp",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1437/C",
+          "rating": 1800,
+          "tags": [
+            "dp",
+            "flows",
+            "graph matchings",
+            "greedy",
+            "math",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1401D",
+          "code": "1401D",
+          "name": "Maximum Distributed Tree",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1401/D",
+          "rating": 1800,
+          "tags": [
+            "dfs and similar",
+            "dp",
+            "greedy",
+            "implementation",
+            "math",
+            "number theory",
+            "sortings",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1396B",
+          "code": "1396B",
+          "name": "Stoned Game",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1396/B",
+          "rating": 1800,
+          "tags": [
+            "brute force",
+            "constructive algorithms",
+            "games",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1355C",
+          "code": "1355C",
+          "name": "Count Triangles",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1355/C",
+          "rating": 1800,
+          "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1338B",
+          "code": "1338B",
+          "name": "Edge Weight Assignment",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1338/B",
+          "rating": 1800,
+          "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "dfs and similar",
+            "greedy",
+            "math",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1335E2",
+          "code": "1335E2",
+          "name": "Three Blocks Palindrome (hard version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1335/E2",
+          "rating": 1800,
+          "tags": [
+            "brute force",
+            "data structures",
+            "dp",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1290B",
+          "code": "1290B",
+          "name": "Irreducible Anagrams",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1290/B",
+          "rating": 1800,
+          "tags": [
+            "binary search",
+            "constructive algorithms",
+            "data structures",
+            "strings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1286B",
+          "code": "1286B",
+          "name": "Numbers on Tree",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1286/B",
+          "rating": 1800,
+          "tags": [
+            "constructive algorithms",
+            "data structures",
+            "dfs and similar",
+            "graphs",
+            "greedy",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1283D",
+          "code": "1283D",
+          "name": "Christmas Trees",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1283/D",
+          "rating": 1800,
+          "tags": [
+            "graphs",
+            "greedy",
+            "shortest paths"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1900",
+      "title": "1900 rated",
+      "problems": [
+        {
+          "id": "cp31:2044F",
+          "code": "2044F",
+          "name": "Easy Demon Problem",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2044/F",
+          "rating": 1900,
+          "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:2042D",
+          "code": "2042D",
+          "name": "Recommendations",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2042/D",
+          "rating": 1900,
+          "tags": [
+            "data structures",
+            "implementation",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:2036F",
+          "code": "2036F",
+          "name": "XORificator 3000",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2036/F",
+          "rating": 1900,
+          "tags": [
+            "bitmasks",
+            "dp",
+            "number theory",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:2014H",
+          "code": "2014H",
+          "name": "Robin Hood Archery",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2014/H",
+          "rating": 1900,
+          "tags": [
+            "data structures",
+            "divide and conquer",
+            "greedy",
+            "hashing"
+          ]
+        },
+        {
+          "id": "cp31:2009G1",
+          "code": "2009G1",
+          "name": "Yunli's Subarray Queries (easy version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2009/G1",
+          "rating": 1900,
+          "tags": [
+            "binary search",
+            "data structures",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:2001D",
+          "code": "2001D",
+          "name": "Longest Max Min Subsequence",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/2001/D",
+          "rating": 1900,
+          "tags": [
+            "brute force",
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "implementation"
+          ]
+        },
+        {
+          "id": "cp31:1994D",
+          "code": "1994D",
+          "name": "Funny Game",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1994/D",
+          "rating": 1900,
+          "tags": [
+            "constructive algorithms",
+            "dsu",
+            "graphs",
+            "greedy",
+            "math",
+            "number theory",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1992F",
+          "code": "1992F",
+          "name": "Valuable Cards",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1992/F",
+          "rating": 1900,
+          "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "number theory",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1986F",
+          "code": "1986F",
+          "name": "Non-academic Problem",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1986/F",
+          "rating": 1900,
+          "tags": [
+            "dfs and similar",
+            "graphs",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1957D",
+          "code": "1957D",
+          "name": "A BIT of an Inequality",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1957/D",
+          "rating": 1900,
+          "tags": [
+            "bitmasks",
+            "brute force",
+            "dp",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1950G",
+          "code": "1950G",
+          "name": "Shuffling Songs",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1950/G",
+          "rating": 1900,
+          "tags": [
+            "bitmasks",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "hashing",
+            "implementation",
+            "strings"
+          ]
+        },
+        {
+          "id": "cp31:1932F",
+          "code": "1932F",
+          "name": "Feed Cats",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1932/F",
+          "rating": 1900,
+          "tags": [
+            "data structures",
+            "dp",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1925D",
+          "code": "1925D",
+          "name": "Good Trip",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1925/D",
+          "rating": 1900,
+          "tags": [
+            "combinatorics",
+            "dp",
+            "math",
+            "probabilities"
+          ]
+        },
+        {
+          "id": "cp31:1918D",
+          "code": "1918D",
+          "name": "Blocking Elements",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1918/D",
+          "rating": 1900,
+          "tags": [
+            "binary search",
+            "data structures",
+            "dp",
+            "implementation",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1912A",
+          "code": "1912A",
+          "name": "Accumulator Apex",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1912/A",
+          "rating": 1900,
+          "tags": [
+            "data structures",
+            "implementation",
+            "sortings"
+          ]
+        },
+        {
+          "id": "cp31:1906E",
+          "code": "1906E",
+          "name": "Merge Not Sort",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1906/E",
+          "rating": 1900,
+          "tags": [
+            "constructive algorithms",
+            "dp"
+          ]
+        },
+        {
+          "id": "cp31:1902E",
+          "code": "1902E",
+          "name": "Collapsing Strings",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1902/E",
+          "rating": 1900,
+          "tags": [
+            "data structures",
+            "strings",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1898D",
+          "code": "1898D",
+          "name": "Absolute Beauty",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1898/D",
+          "rating": 1900,
+          "tags": [
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1882D",
+          "code": "1882D",
+          "name": "Tree XOR",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1882/D",
+          "rating": 1900,
+          "tags": [
+            "bitmasks",
+            "dfs and similar",
+            "dp",
+            "greedy",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1842D",
+          "code": "1842D",
+          "name": "Tenzing and His Animal Friends",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1842/D",
+          "rating": 1900,
+          "tags": []
+        },
+        {
+          "id": "cp31:1819B",
+          "code": "1819B",
+          "name": "The Butcher",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1819/B",
+          "rating": 1900,
+          "tags": [
+            "geometry",
+            "greedy",
+            "implementation",
+            "sortings",
+            "two pointers"
+          ]
+        },
+        {
+          "id": "cp31:1817B",
+          "code": "1817B",
+          "name": "Fish Graph",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1817/B",
+          "rating": 1900,
+          "tags": [
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "graphs"
+          ]
+        },
+        {
+          "id": "cp31:1799D1",
+          "code": "1799D1",
+          "name": "Hot Start Up (easy version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1799/D1",
+          "rating": 1900,
+          "tags": [
+            "dp"
+          ]
+        },
+        {
+          "id": "cp31:1794D",
+          "code": "1794D",
+          "name": "Counting Factorizations",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1794/D",
+          "rating": 1900,
+          "tags": [
+            "combinatorics",
+            "divide and conquer",
+            "dp",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1777D",
+          "code": "1777D",
+          "name": "Score of a Tree",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1777/D",
+          "rating": 1900,
+          "tags": [
+            "bitmasks",
+            "combinatorics",
+            "dfs and similar",
+            "dp",
+            "math",
+            "probabilities",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1759G",
+          "code": "1759G",
+          "name": "Restore the Permutation",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1759/G",
+          "rating": 1900,
+          "tags": [
+            "binary search",
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "math"
+          ]
+        },
+        {
+          "id": "cp31:1747D",
+          "code": "1747D",
+          "name": "Yet Another Problem",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1747/D",
+          "rating": 1900,
+          "tags": [
+            "binary search",
+            "bitmasks",
+            "constructive algorithms",
+            "data structures"
+          ]
+        },
+        {
+          "id": "cp31:1744E2",
+          "code": "1744E2",
+          "name": "Divisible Numbers (hard version)",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1744/E2",
+          "rating": 1900,
+          "tags": [
+            "brute force",
+            "math",
+            "number theory"
+          ]
+        },
+        {
+          "id": "cp31:1739D",
+          "code": "1739D",
+          "name": "Reset K Edges",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1739/D",
+          "rating": 1900,
+          "tags": [
+            "binary search",
+            "data structures",
+            "dfs and similar",
+            "graphs",
+            "greedy",
+            "trees"
+          ]
+        },
+        {
+          "id": "cp31:1715D",
+          "code": "1715D",
+          "name": "2+ doors",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1715/D",
+          "rating": 1900,
+          "tags": [
+            "2-sat",
+            "bitmasks",
+            "graphs",
+            "greedy"
+          ]
+        },
+        {
+          "id": "cp31:1700D",
+          "code": "1700D",
+          "name": "River Locks",
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/problemset/problem/1700/D",
+          "rating": 1900,
+          "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "math"
+          ]
+        }
+      ]
+    }
+  ]
+}
