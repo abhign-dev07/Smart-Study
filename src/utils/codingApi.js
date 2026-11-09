@@ -106,146 +106,17 @@ export async function fetchCodeforcesStats(handle) {
   }
 }
 
-/**
- * Fetch LeetCode statistics and contest rating history.
- * Uses the local Vite proxy (/api/leetcode/graphql) to bypass browser CORS securely.
- * Falls back to public proxies if unavailable.
- */
-export async function fetchLeetCodeStats(handle) {
-  if (!handle || !handle.trim()) {
-    return { error: 'No handle provided', configured: false };
-  }
-
-  const cleanHandle = handle.trim();
-  const result = {
-    handle: cleanHandle,
-    totalSolved: null,
-    easySolved: null,
-    mediumSolved: null,
-    hardSolved: null,
-    currentRating: null,
-    highestRating: null,
-    globalRanking: null,
-    attendedContestsCount: 0,
-    ratingHistory: [],
-    lastUpdated: new Date().toISOString(),
-    error: null,
-    configured: true
-  };
-
-  const query = `
-    query getUserProfile($username: String!) {
-      matchedUser(username: $username) {
-        username
-        submitStatsGlobal {
-          acSubmissionNum {
-            difficulty
-            count
-          }
-        }
-      }
-      userContestRanking(username: $username) {
-        attendedContestsCount
-        rating
-        globalRanking
-        totalParticipants
-        topPercentage
-      }
-      userContestRankingHistory(username: $username) {
-        attended
-        rating
-        ranking
-        contest {
-          title
-          startTime
-        }
-      }
+export async function fetchLeetCodeStats(handle, signal) {
+  try {
+    const response = await fetch('/api/leetcode-profile?username=' + encodeURIComponent(handle), { signal });
+    const body = await response.json().catch(() => null);
+    if (!response.ok || !Array.isArray(body?.ratingHistory)) {
+      throw new Error(body?.error || 'The SmartStudy profile service is unavailable. Please retry.');
     }
-  `;
-
-  // Endpoint candidates: local Vite proxy first
-  const endpoints = [
-    '/api/leetcode/graphql',
-    'https://leetcode.com/graphql'
-  ];
-
-  let rawData = null;
-  let lastError = null;
-
-  for (const endpoint of endpoints) {
-    try {
-      const res = await fetch(endpoint, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          query,
-          variables: { username: cleanHandle }
-        })
-      });
-
-      if (!res.ok) continue;
-
-      const json = await res.json();
-      if (json && (json.data?.matchedUser || json.data?.userContestRanking !== undefined)) {
-        rawData = json.data;
-        break;
-      }
-      if (json.errors && json.errors.length > 0) {
-        lastError = json.errors[0]?.message || 'GraphQL error';
-      }
-    } catch (e) {
-      lastError = e.message;
-    }
+    return { ...body, ratingHistory: body.ratingHistory.map(point => ({
+      ...point, date: formatContestDate(point.timestamp)
+    })) };
+  } catch (error) {
+    return { handle, error: error instanceof TypeError ? 'Could not reach SmartStudy. Check your connection and retry.' : error.message };
   }
-
-  if (!rawData || !rawData.matchedUser) {
-    return {
-      ...result,
-      error: lastError || 'User not found on LeetCode'
-    };
-  }
-
-  // Parse solved problem counts
-  const acList = rawData.matchedUser?.submitStatsGlobal?.acSubmissionNum || [];
-  acList.forEach(item => {
-    if (item.difficulty === 'All') result.totalSolved = item.count;
-    if (item.difficulty === 'Easy') result.easySolved = item.count;
-    if (item.difficulty === 'Medium') result.mediumSolved = item.count;
-    if (item.difficulty === 'Hard') result.hardSolved = item.count;
-  });
-
-  // Parse contest rating
-  if (rawData.userContestRanking) {
-    result.currentRating = Math.round(rawData.userContestRanking.rating);
-    result.attendedContestsCount = rawData.userContestRanking.attendedContestsCount || 0;
-    result.globalRanking = rawData.userContestRanking.globalRanking || null;
-  }
-
-  // Parse contest history
-  if (Array.isArray(rawData.userContestRankingHistory)) {
-    const attended = rawData.userContestRankingHistory
-      .filter(item => item.attended && item.rating > 0)
-      .map(item => ({
-        contestTitle: item.contest?.title || 'Contest',
-        rating: Math.round(item.rating),
-        rank: item.ranking || null,
-        timestamp: item.contest?.startTime || 0,
-        date: formatContestDate(item.contest?.startTime)
-      }));
-
-    result.ratingHistory = attended;
-
-    if (attended.length > 0) {
-      const maxRating = Math.max(...attended.map(item => item.rating));
-      result.highestRating = maxRating;
-      if (!result.currentRating && attended.length > 0) {
-        result.currentRating = attended[attended.length - 1].rating;
-      }
-    }
-  }
-
-  return result;
 }
-

@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import CodingDashboard from './CodingDashboard';
 import DsaSheetView from './DsaSheetView';
 import cp31Catalogue from '../../data/cp31SheetData.json';
@@ -36,73 +36,59 @@ export default function CodingView({ settings, setSettings }) {
   const cpSolvedCount = cpProblems.filter(p => cpProgress[p.id]?.solved).length;
   const dsaTotalCount = ALL_STRIVER_PROBLEMS?.length || 495;
 
-  // Fetch real statistics from LeetCode & Codeforces
-  const loadPlatformStats = useCallback(async (force = false) => {
-    const lcHandle = settings?.leetcodeHandle?.trim();
-    const cfHandle = settings?.codeforcesHandle?.trim();
+  const lcHandle = settings?.leetcodeHandle?.trim();
+  const cfHandle = settings?.codeforcesHandle?.trim();
+  const [lcLoading, setLcLoading] = useState(false);
+  const activeLC = useRef(null);
+  const latestStats = useRef(codingStats);
+  latestStats.current = codingStats;
 
-    if (!lcHandle && !cfHandle) {
-      return;
+  function storeResult(platform, data) {
+    const time = new Date().toLocaleTimeString('en-US', {
+      timeZone: 'Asia/Kolkata', hour: '2-digit', minute: '2-digit', hour12: true
+    });
+    setCodingStats(prev => ({ ...prev, [platform]: data, lastSynced: `Today at ${time} IST` }));
+  }
+
+  const loadLeetcode = useCallback(async () => {
+    if (!lcHandle) return;
+    activeLC.current?.abort();
+    const controller = new AbortController();
+    activeLC.current = controller;
+    setLcLoading(true);
+    const data = await fetchLeetCodeStats(lcHandle, controller.signal);
+    if (!controller.signal.aborted) {
+      storeResult('leetcode', data);
+      setLcLoading(false);
     }
+  }, [lcHandle]);
 
-    setIsLoading(true);
-
-    try {
-      const promises = [];
-
-      if (lcHandle) {
-        promises.push(
-          fetchLeetCodeStats(lcHandle).then(data => ({ platform: 'leetcode', data }))
-        );
-      } else {
-        promises.push(Promise.resolve({ platform: 'leetcode', data: null }));
-      }
-
-      if (cfHandle) {
-        promises.push(
-          fetchCodeforcesStats(cfHandle).then(data => ({ platform: 'codeforces', data }))
-        );
-      } else {
-        promises.push(Promise.resolve({ platform: 'codeforces', data: null }));
-      }
-
-      const results = await Promise.all(promises);
-
-      const now = new Date();
-      const timeStr = now.toLocaleTimeString('en-US', {
-        hour: '2-digit',
-        minute: '2-digit',
-        hour12: true
-      });
-      const formattedSyncTime = `Today at ${timeStr} IST`;
-
-      setCodingStats(prev => {
-        const next = { ...prev, lastSynced: formattedSyncTime };
-        results.forEach(res => {
-          if (res.platform === 'leetcode') next.leetcode = res.data;
-          if (res.platform === 'codeforces') next.codeforces = res.data;
-        });
-        return next;
-      });
-    } catch (err) {
-      console.error('Error fetching platform statistics:', err);
-    } finally {
-      setIsLoading(false);
-    }
-  }, [settings?.leetcodeHandle, settings?.codeforcesHandle]);
-
-  // Initial fetch on mount or handle change if handles are configured and not yet fetched
   useEffect(() => {
-    const lcHandle = settings?.leetcodeHandle?.trim();
-    const cfHandle = settings?.codeforcesHandle?.trim();
+    const cached = latestStats.current.leetcode;
+    if (lcHandle && (cached?.handle !== lcHandle || cached.error ||
+        !(Date.now() - Date.parse(cached.lastUpdated) < 300000))) loadLeetcode();
+    else setLcLoading(false);
+    return () => activeLC.current?.abort();
+  }, [lcHandle, loadLeetcode]);
 
-    const needLC = lcHandle && (!codingStats.leetcode || codingStats.leetcode.handle !== lcHandle);
-    const needCF = cfHandle && (!codingStats.codeforces || codingStats.codeforces.handle !== cfHandle);
-
-    if (needLC || needCF) {
-      loadPlatformStats();
+  const cfRequest = useRef(0);
+  const loadCodeforces = useCallback(async () => {
+    if (!cfHandle) return;
+    const request = ++cfRequest.current;
+    setIsLoading(true);
+    try {
+      const data = await fetchCodeforcesStats(cfHandle);
+      if (request === cfRequest.current) storeResult('codeforces', data);
+    } finally {
+      if (request === cfRequest.current) setIsLoading(false);
     }
-  }, [settings?.leetcodeHandle, settings?.codeforcesHandle, loadPlatformStats]);
+  }, [cfHandle]);
+
+  useEffect(() => {
+    if (cfHandle && latestStats.current.codeforces?.handle !== cfHandle) loadCodeforces();
+    else setIsLoading(false);
+    return () => { cfRequest.current++; };
+  }, [cfHandle, loadCodeforces]);
 
   // Render subviews based on state
   return (
@@ -111,11 +97,13 @@ export default function CodingView({ settings, setSettings }) {
       {currentView === 'dashboard' && (
         <CodingDashboard
           settings={settings}
-          leetcodeData={codingStats.leetcode}
+          leetcodeData={codingStats.leetcode?.handle === lcHandle ? codingStats.leetcode : null}
+          lcLoading={lcLoading}
+          onRetryLeetcode={loadLeetcode}
           codeforcesData={codingStats.codeforces}
-          isLoading={isLoading}
+          isLoading={isLoading || lcLoading}
           lastSynced={codingStats.lastSynced}
-          onRefresh={() => loadPlatformStats(true)}
+          onRefresh={() => { loadLeetcode(); loadCodeforces(); }}
           onOpenSettings={() => {
             // Trigger configuration / settings modal
             const settingsBtn = document.querySelector('button[title="System Settings"]');

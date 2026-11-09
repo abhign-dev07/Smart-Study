@@ -48,6 +48,8 @@ function RatingTooltip({ active, payload, platformName }) {
 export default function CodingDashboard({
   settings,
   leetcodeData,
+  lcLoading,
+  onRetryLeetcode,
   codeforcesData,
   isLoading,
   lastSynced,
@@ -115,7 +117,7 @@ export default function CodingDashboard({
               <div>
                 <div className="flex items-center gap-2">
                   <h3 className="text-base font-bold text-white">LeetCode</h3>
-                  {hasLeetcodeConfigured && (
+                  {hasLeetcodeConfigured && leetcodeData && !leetcodeData.error && (
                     <span className="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-amber-500/10 text-amber-400 border border-amber-500/20">
                       Verified
                     </span>
@@ -136,12 +138,6 @@ export default function CodingDashboard({
               </div>
             </div>
 
-            {hasLeetcodeConfigured && leetcodeData?.globalRanking && (
-              <div className="text-right">
-                <span className="text-[10px] text-slate-400 block uppercase tracking-wider">Global Rank</span>
-                <span className="text-xs font-mono font-bold text-slate-200">#{leetcodeData.globalRanking.toLocaleString()}</span>
-              </div>
-            )}
           </div>
 
           {!hasLeetcodeConfigured ? (
@@ -156,14 +152,16 @@ export default function CodingDashboard({
                 Configure LeetCode Handle
               </button>
             </div>
-          ) : leetcodeData?.error ? (
+          ) : lcLoading || !leetcodeData ? (
+            <p role="status" className="text-xs text-slate-400 py-4">Loading LeetCode profile…</p>
+          ) : leetcodeData.error ? (
             <div className="p-4 rounded-xl bg-amber-500/5 border border-amber-500/20 text-xs text-amber-300 flex items-start gap-2.5">
               <AlertCircle className="w-4 h-4 text-amber-400 shrink-0 mt-0.5" />
               <div>
                 <p className="font-semibold text-amber-200">Unable to fetch LeetCode data</p>
                 <p className="text-slate-400 text-[11px] mt-0.5">{leetcodeData.error}</p>
                 <button
-                  onClick={onRefresh}
+                  onClick={onRetryLeetcode}
                   className="mt-2 text-[11px] text-amber-400 hover:underline font-semibold"
                 >
                   Retry Fetch
@@ -180,11 +178,6 @@ export default function CodingDashboard({
                     ? leetcodeData.totalSolved
                     : '—'}
                 </span>
-                {leetcodeData?.easySolved !== null && leetcodeData?.easySolved !== undefined && (
-                  <span className="text-[10px] text-slate-500 block mt-0.5">
-                    {leetcodeData.easySolved}E • {leetcodeData.mediumSolved}M • {leetcodeData.hardSolved}H
-                  </span>
-                )}
               </div>
 
               {/* Current Contest Rating */}
@@ -194,9 +187,6 @@ export default function CodingDashboard({
                   {leetcodeData?.currentRating !== null && leetcodeData?.currentRating !== undefined
                     ? leetcodeData.currentRating
                     : 'Unrated'}
-                </span>
-                <span className="text-[10px] text-slate-500 block mt-0.5">
-                  {leetcodeData?.attendedContestsCount || 0} Contests
                 </span>
               </div>
 
@@ -208,7 +198,6 @@ export default function CodingDashboard({
                     ? leetcodeData.highestRating
                     : (leetcodeData?.currentRating ? leetcodeData.currentRating : '—')}
                 </span>
-                <span className="text-[10px] text-slate-500 block mt-0.5">Peak rating</span>
               </div>
             </div>
           )}
@@ -331,11 +320,6 @@ export default function CodingDashboard({
               <div className="w-2.5 h-2.5 rounded-full bg-amber-400" />
               <h3 className="text-sm font-bold text-white tracking-tight">LeetCode Rating History</h3>
             </div>
-            {leetcodeData?.ratingHistory && leetcodeData.ratingHistory.length > 0 && (
-              <span className="text-[11px] font-mono text-amber-400 font-semibold">
-                {leetcodeData.ratingHistory.length} Contests
-              </span>
-            )}
           </div>
 
           <div className="h-60 w-full flex items-center justify-center">
@@ -345,6 +329,10 @@ export default function CodingDashboard({
                 <p className="text-xs text-slate-400 font-medium">LeetCode profile not configured</p>
                 <p className="text-[11px] text-slate-500">Configure your handle to see your contest rating history.</p>
               </div>
+            ) : lcLoading || !leetcodeData ? (
+              <p className="text-xs text-slate-400">Loading rating history…</p>
+            ) : leetcodeData.error ? (
+              <p className="text-xs text-slate-400">Rating history is unavailable. Retry the profile fetch above.</p>
             ) : leetcodeData?.ratingHistory && leetcodeData.ratingHistory.length > 0 ? (
               <ResponsiveContainer width="100%" height="100%">
                 <AreaChart
