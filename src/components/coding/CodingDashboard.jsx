@@ -138,6 +138,14 @@ export default function CodingDashboard({
               </div>
             </div>
 
+            {hasLeetcodeConfigured && leetcodeData && !lcLoading && !leetcodeData.error && (
+              <div className="text-right">
+                <span className="text-[10px] text-slate-400 block uppercase tracking-wider">Global contest rank</span>
+                <span className="text-xs font-semibold text-amber-300">
+                  {leetcodeData.globalRanking ? `#${leetcodeData.globalRanking.toLocaleString('en-US')}` : 'Unranked'}
+                </span>
+              </div>
+            )}
           </div>
 
           {!hasLeetcodeConfigured ? (
@@ -178,6 +186,7 @@ export default function CodingDashboard({
                     ? leetcodeData.totalSolved
                     : '—'}
                 </span>
+                <span className="text-[10px] text-slate-500 block mt-0.5">Distinct ACs</span>
               </div>
 
               {/* Current Contest Rating */}
@@ -188,6 +197,7 @@ export default function CodingDashboard({
                     ? leetcodeData.currentRating
                     : 'Unrated'}
                 </span>
+                <span className="text-[10px] text-slate-500 block mt-0.5">Contest rating</span>
               </div>
 
               {/* Highest Contest Rating */}
@@ -198,6 +208,7 @@ export default function CodingDashboard({
                     ? leetcodeData.highestRating
                     : (leetcodeData?.currentRating ? leetcodeData.currentRating : '—')}
                 </span>
+                <span className="text-[10px] text-slate-500 block mt-0.5">Peak rating</span>
               </div>
             </div>
           )}
@@ -320,6 +331,11 @@ export default function CodingDashboard({
               <div className="w-2.5 h-2.5 rounded-full bg-amber-400" />
               <h3 className="text-sm font-bold text-white tracking-tight">LeetCode Rating History</h3>
             </div>
+            {hasLeetcodeConfigured && !lcLoading && leetcodeData?.attendedContestsCount != null && (
+              <span className="text-[11px] font-mono text-amber-400 font-semibold">
+                {leetcodeData.attendedContestsCount} {leetcodeData.attendedContestsCount === 1 ? 'Contest' : 'Contests'}
+              </span>
+            )}
           </div>
 
           <div className="h-60 w-full flex items-center justify-center">

@@ -3,7 +3,7 @@ const profileQuery = `query SmartStudyProfile($username: String!) {
     username
     submitStatsGlobal { acSubmissionNum { difficulty count } }
   }
-  userContestRanking(username: $username) { rating }
+  userContestRanking(username: $username) { rating globalRanking attendedContestsCount }
   userContestRankingHistory(username: $username) {
     attended rating ranking contest { title startTime }
   }
@@ -56,7 +56,9 @@ export default async function profile(req, res) {
     const rating = data.userContestRanking?.rating;
     const currentRating = Number.isFinite(rating) ? Math.round(rating) : ratingHistory.at(-1)?.rating ?? null;
     const highestRating = ratingHistory.reduce((peak, entry) => Math.max(peak ?? entry.rating, entry.rating), currentRating);
-    return reply(res, 200, { handle, totalSolved, currentRating, highestRating, ratingHistory, lastUpdated: new Date().toISOString() });
+    const globalRanking = data.userContestRanking?.globalRanking || null;
+    const attendedContestsCount = data.userContestRanking?.attendedContestsCount ?? (history || []).filter(row => row.attended).length;
+    return reply(res, 200, { handle, totalSolved, currentRating, highestRating, globalRanking, attendedContestsCount, ratingHistory, lastUpdated: new Date().toISOString() });
   } catch (error) {
     if (error.name === 'TimeoutError' || error.name === 'AbortError') {
       return reply(res, 504, { error: 'LeetCode took too long to respond. Please retry.' });

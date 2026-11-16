@@ -65,7 +65,7 @@ export default function CodingView({ settings, setSettings }) {
 
   useEffect(() => {
     const cached = latestStats.current.leetcode;
-    if (lcHandle && (cached?.handle !== lcHandle || cached.error ||
+    if (lcHandle && (cached?.handle !== lcHandle || cached.error || cached.attendedContestsCount == null ||
         !(Date.now() - Date.parse(cached.lastUpdated) < 300000))) loadLeetcode();
     else setLcLoading(false);
     return () => activeLC.current?.abort();
