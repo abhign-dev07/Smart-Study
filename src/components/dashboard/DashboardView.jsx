@@ -186,7 +186,7 @@ export default function DashboardView({
     const newTask = {
       id: 'task-' + Date.now(),
       title: quickTaskText.trim(),
-      subjectId: activeSubject || (subjects.length > 0 ? subjects[0].id : null),
+      subjectId: null,
       completed: false,
       priority: 'medium',
       dueDate: todayIST,
@@ -464,7 +464,6 @@ export default function DashboardView({
                 </div>
               ) : (
                 todayTasks.map(task => {
-                  const sub = subjects.find(s => s.id === task.subjectId);
                   const isEditing = editingTaskId === task.id;
 
                   return (
@@ -521,15 +520,6 @@ export default function DashboardView({
                       </div>
 
                       <div className="flex items-center gap-2 flex-shrink-0">
-                        {sub && (
-                          <span 
-                            className="text-[10px] font-semibold px-2 py-0.5 rounded-md"
-                            style={{ backgroundColor: `${sub.color || '#6366F1'}20`, color: sub.color || '#6366F1' }}
-                          >
-                            {sub.code || sub.name}
-                          </span>
-                        )}
-
                         {!isEditing && (
                           <div className="flex items-center gap-1">
                             <button
@@ -699,9 +689,9 @@ export default function DashboardView({
                       <div className="text-xs text-slate-400">LeetCode</div>
                       <div className="text-sm font-bold text-white font-mono">@{settings.leetcodeHandle}</div>
                     </div>
-                    <span className="text-[11px] px-2 py-0.5 rounded bg-amber-500/10 text-amber-400 border border-amber-500/20 font-medium">
-                      Connected
-                    </span>
+                    <button type="button" onClick={() => onNavigate('coding')} className="text-[11px] px-2 py-0.5 rounded bg-amber-500/10 text-amber-400 border border-amber-500/20 font-medium">
+                      View stats
+                    </button>
                   </div>
                 )}
 

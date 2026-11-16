@@ -7,7 +7,7 @@ import { STORAGE_KEYS, getStoredData, setStoredData } from '../../utils/mockData
 export default function CpSheetView({ onBack, catalogue = defaultCatalogue, storageKey = STORAGE_KEYS.CP_SHEET_PROGRESS }) {
   const allProblems = catalogue.topics.flatMap(t => t.problems);
   const [progress, setProgress] = useState(() => getStoredData(storageKey, {}));
-  const [expanded, setExpanded] = useState({ [catalogue.topics[0].id]: true });
+  const [expanded, setExpanded] = useState({});
   const [query, setQuery] = useState('');
   const [status, setStatus] = useState('ALL');
   const [platform, setPlatform] = useState('ALL');
@@ -46,7 +46,7 @@ export default function CpSheetView({ onBack, catalogue = defaultCatalogue, stor
     </div>
     {!filteredTopics.length && <div className="glass-panel rounded-2xl p-10 text-center"><h3 className="text-lg font-semibold">No matching questions</h3><p className="mt-2 text-sm text-slate-400">Try another search or clear your filters.</p></div>}
     <div className="space-y-4">{filteredTopics.map(topic => {
-      const open = expanded[topic.id] ?? filtering;
+      const open = Boolean(expanded[topic.id]);
       const solved = topic.problems.filter(p => progress[p.id]?.solved).length;
       return <section key={topic.id} className="glass-panel rounded-2xl overflow-hidden">
         <button onClick={() => setExpanded(previous => ({ ...previous, [topic.id]: !open }))} aria-expanded={Boolean(open)} aria-controls={`cp-topic-${topic.id}`} className="w-full flex items-center gap-3 p-5 text-left hover:bg-white/5">

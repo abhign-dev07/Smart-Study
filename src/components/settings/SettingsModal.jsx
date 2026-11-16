@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { leetcodeUsername } from '../../utils/codingApi';
 import { X, Save, RotateCcw, ShieldCheck, Moon } from 'lucide-react';
 
 export default function SettingsModal({ isOpen, onClose, settings, setSettings }) {
@@ -9,7 +10,14 @@ export default function SettingsModal({ isOpen, onClose, settings, setSettings }
 
   const handleSave = (e) => {
     e.preventDefault();
-    setSettings(formData);
+    const leetcodeHandle = leetcodeUsername(formData.leetcodeHandle);
+    if (leetcodeHandle && !/^[\w.-]{1,100}$/.test(leetcodeHandle)) {
+      e.currentTarget.elements.leetcodeHandle.setCustomValidity('Enter a LeetCode username or profile URL.');
+      e.currentTarget.reportValidity();
+      return;
+    }
+    setSettings({ ...formData, leetcodeHandle });
+    setFormData({ ...formData, leetcodeHandle });
     setSavedMessage(true);
     setTimeout(() => {
       setSavedMessage(false);
@@ -46,8 +54,13 @@ export default function SettingsModal({ isOpen, onClose, settings, setSettings }
               <label className="block text-xs font-semibold text-slate-300 mb-1">LeetCode Username</label>
               <input
                 type="text"
+                name="leetcodeHandle"
+                placeholder="Username or profile URL"
                 value={formData.leetcodeHandle}
-                onChange={(e) => setFormData({ ...formData, leetcodeHandle: e.target.value })}
+                onChange={(e) => {
+                  e.target.setCustomValidity('');
+                  setFormData({ ...formData, leetcodeHandle: e.target.value });
+                }}
                 className="w-full bg-slate-900 border border-white/10 rounded-xl px-3.5 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500 font-mono"
               />
             </div>

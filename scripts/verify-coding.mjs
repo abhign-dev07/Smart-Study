@@ -47,7 +47,12 @@ try {
  assert.ok(html.includes('Beginner Problems')); assert.ok(!html.includes('Breaking The Myth')); assert.ok(!html.includes('aria-expanded="true"'));
  const Cp=(await server.ssrLoadModule('/src/components/coding/CpSheetView.jsx')).default;
  const cpHtml=renderToStaticMarkup(React.createElement(Cp,{catalogue:sheet,storageKey:'test-cp31'}));
- assert.ok(cpHtml.includes('Halloumi Boxes'));assert.ok(cpHtml.includes('Mark complete'));assert.ok(cpHtml.includes('372'));
+ assert.ok(cpHtml.includes('372'));
+ for (const markup of [cpHtml, renderToStaticMarkup(React.createElement(Cp))]) {
+   assert.ok(markup.includes('aria-expanded="false"'));
+   assert.ok(!markup.includes('aria-expanded="true"'));
+   assert.ok(!markup.includes('Mark complete'));
+ }
  const Calendar=(await server.ssrLoadModule('/src/components/coding/ContestCalendar.jsx')).default;
  const calHtml=renderToStaticMarkup(React.createElement(Calendar));
  assert.ok(calHtml.includes('Contest calendar'));assert.ok(calHtml.includes('Previous month'));assert.ok(calHtml.includes('IST'));

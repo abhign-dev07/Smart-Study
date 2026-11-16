@@ -4,7 +4,7 @@ import DsaSheetView from './DsaSheetView';
 import cp31Catalogue from '../../data/cp31SheetData.json';
 import cpCatalogue from '../../data/cpSheetData.json';
 import CpSheetView from './CpSheetView';
-import { fetchLeetCodeStats, fetchCodeforcesStats } from '../../utils/codingApi';
+import { fetchLeetCodeStats, fetchCodeforcesStats, leetcodeUsername } from '../../utils/codingApi';
 import { STORAGE_KEYS, getStoredData, setStoredData } from '../../utils/mockData';
 import { ALL_STRIVER_PROBLEMS } from '../../data/striverSheetData';
 
@@ -36,7 +36,7 @@ export default function CodingView({ settings, setSettings }) {
   const cpSolvedCount = cpProblems.filter(p => cpProgress[p.id]?.solved).length;
   const dsaTotalCount = ALL_STRIVER_PROBLEMS?.length || 495;
 
-  const lcHandle = settings?.leetcodeHandle?.trim();
+  const lcHandle = leetcodeUsername(settings?.leetcodeHandle);
   const cfHandle = settings?.codeforcesHandle?.trim();
   const [lcLoading, setLcLoading] = useState(false);
   const activeLC = useRef(null);
@@ -96,7 +96,7 @@ export default function CodingView({ settings, setSettings }) {
       {/* 1. Default Landing Page: Coding Dashboard */}
       {currentView === 'dashboard' && (
         <CodingDashboard
-          settings={settings}
+          settings={{ ...settings, leetcodeHandle: lcHandle }}
           leetcodeData={codingStats.leetcode?.handle === lcHandle ? codingStats.leetcode : null}
           lcLoading={lcLoading}
           onRetryLeetcode={loadLeetcode}

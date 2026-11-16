@@ -106,6 +106,12 @@ export async function fetchCodeforcesStats(handle) {
   }
 }
 
+export function leetcodeUsername(value) {
+  const input = (value || '').trim();
+  const profile = input.match(/^(?:https?:\/\/)?(?:www\.)?leetcode\.com\/(?:u\/)?([\w.-]+)\/?(?:[?#].*)?$/i);
+  return profile?.[1] ?? input.replace(/^@/, '');
+}
+
 export async function fetchLeetCodeStats(handle, signal) {
   try {
     const response = await fetch('/api/leetcode-profile?username=' + encodeURIComponent(handle), { signal });
